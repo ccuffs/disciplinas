@@ -1,0 +1,24 @@
+{
+    "creditos": 4,
+    "codigo": "GEX608",
+    "ementa": "No\u00e7\u00f5es de L\u00f3gica e de Teoria dos Conjuntos. Rela\u00e7\u00f5es. Fun\u00e7\u00f5es. Prova por redu\u00e7\u00e3o ao absurdo, por indu\u00e7\u00e3o e por indu\u00e7\u00e3o generalizada. Recorr\u00eancias lineares. Combinat\u00f3ria finita: princ\u00edpios aditivos, multiplicativo e da casa dos pombos, permuta\u00e7\u00f5es, combina\u00e7\u00f5es e bin\u00f4mio de Newton. Nota\u00e7\u00e3o, defini\u00e7\u00f5es e introdu\u00e7\u00e3o a l\u00f3gica matem\u00e1tica e teoria dos conjuntos. Rela\u00e7\u00f5es, fun\u00e7\u00f5es, n\u00fameros naturais, conjuntos cont\u00e1veis e incont\u00e1veis, indu\u00e7\u00e3o matem\u00e1tica, rela\u00e7\u00f5es de recorr\u00eancia.",
+    "horas": 60,
+    "nome": "MATEM\u00c1TICA DISCRETA",
+    "objetivo": "Compreender os fundamentos matem\u00e1ticos necess\u00e1rios \u00e0s diversas disciplinas da Ci\u00eancia da Computa\u00e7\u00e3o. Desenvolver o formalismo e as habilidades de reda\u00e7\u00e3o de demonstra\u00e7\u00f5es matem\u00e1ticas atrav\u00e9s de exerc\u00edcios. Relacionar os elementos matem\u00e1ticos discretos com suas aplica\u00e7\u00f5es computacionais.",
+    "referencias_basicas": [
+        "GERSTING, J. Fundamentos Matem\u00e1ticos para a Ci\u00eancia da Computa\u00e7\u00e3o. 5. ed. LTC, 2004.",
+        "GRAHAN, J.; KNUTH, D. E.; PATASHNIK, O. Matem\u00e1tica Concreta: Fundamentos para a Ci\u00eancia da Computa\u00e7\u00e3o. 2. ed. LTC, 1995.",
+        "LEWIS, H. R.; PAPADIMITRIOU, C. H. Elementos de Teoria da Computa\u00e7\u00e3o. 2. ed.",
+        "Bookman, 2000.",
+        "LIPSCHUTZ, S.; LIPSON, M. Teoria e Problemas de Matem\u00e1tica Discreta. 2. ed.",
+        "Bookman, 2004.",
+        "ROSEN, K. H. Matem\u00e1tica Discreta e Suas Aplica\u00e7\u00f5es. 6. ed. McGraw-Hill, 2009."
+    ],
+    "referencias_complementares": [
+        "CORMEN, T. H. et al. Algoritmos: Teoria e Pr\u00e1tica. 3. ed. Elsevier, 2012.",
+        "GREENE, D. H.; KNUTH, D. E. Mathematics For The Analysis Of Algorithms. 3. ed. Birkh\u00e4user, 2007.",
+        "LOV\u00c1SZ, L.; PELIKAN, J.; VERSZTERGOMBI. Matem\u00e1tica Discreta. 1. ed. Sociedade Brasileira de Matem\u00e1tica, 2003.",
+        "MENEZES, P. B. Matem\u00e1tica Discreta para Computa\u00e7\u00e3o e Inform\u00e1tica. 3. ed. Bookman, 2010.",
+        "TREMBLAY, J. P. Discrete Mathematical Structures With Applications to Computer Science. 1. ed. McGraw-Hill, 1975."
+    ]
+}

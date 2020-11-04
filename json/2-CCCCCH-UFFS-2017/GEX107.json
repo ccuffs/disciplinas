@@ -1,0 +1,24 @@
+{
+    "creditos": 4,
+    "codigo": "GEX107",
+    "ementa": "Conceitos b\u00e1sicos. Dispositivos gr\u00e1ficos. Sistemas de cores. Transforma\u00e7\u00f5es geom\u00e9tricas. Primitivas gr\u00e1ficas. Visibilidade. Rendering (modelos de ilumina\u00e7\u00e3o, shading, textura, antialiasing).",
+    "horas": 60,
+    "nome": "COMPUTA\u00c7\u00c3O GR\u00c1FICA",
+    "objetivo": "Dominar os principais conceitos e t\u00e9cnicas da Computa\u00e7\u00e3o Gr\u00e1fica 2D e 3D.",
+    "referencias_basicas": [
+        "SHIRLEY, P. Fundamentals of Computer Graphics. 3. ed. AK Peters, 2009.",
+        "ANGEL, E.; SHEREINER, D. Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL. 6. ed. Addison-Wesley, 2011. ISBN-10: 0132545233.",
+        "HUGHES, J.; DAM, A.; MCGUIRE, M.; SKLAR, D.; FOLEY, J.; FEINER, S.; AKELEY, A. Computer Graphics: Principles and Practice. 3. ed. Addison-Wesley Professional, 2013. ISBN-10: 0321399528.",
+        "GORTLER, S. Foundations of 3D Computer Graphics. The MIT Press, 2012. ISBN-10: 0262017350.",
+        "DUNN, F.; PARBERRY, I. 3D Math Primer for Graphics and Game Development. 2. ed. A K Peters\/CRC Press, 2011. ISBN-10: 1568817231.",
+        "REFER\u00caNCIA",
+        "HEARN, D.; BAKER, M.; CARITHRES, W. Computer graphics with OpenGL. 4. ed. Prentice Hall, 2010. ISBN-10: 0136053580.",
+        "WRIGHT, R.; HAEMEL, N.; SELLERS, G.; LIPCHAK, B. OpenGL SuperBible: Comprehensive Tutorial and Reference. 5. ed. Addison-Wesley Professional, 2010.",
+        "AKENINE-MOLLER, T.; HAINES, E.; HOFFMAN, N. Real-Time Rendering. 3. ed. AK Peters, 2008.",
+        "LENGYEL, E. Mathematics for 3D game programming and computer graphics. 3. ed. Course Technology PTR, 2011. ISBN-10: 1435458869.",
+        "VERTH, J.; BISHOP, L. Essential Mathematics for Games and Interactive Applications: A Programmer's Guide. 2. ed. Morgan Kaufmann, 2008. ISBN-10: 0123742978.",
+        "HETEM JR, A. Computa\u00e7\u00e3o Gr\u00e1fica. Rio de Janeiro: LTC, 2006.",
+        "ZHANG, K.; AMMERAAL, L. Computa\u00e7\u00e3o Gr\u00e1fica para Programadores Java. 2. ed. Rio de Janeiro: LTC, 2008.",
+        "CONCI, A.; LETA, F.; AZEVEDO, E. Computa\u00e7\u00e3o Gr\u00e1fica. Rio de Janeiro: Campus, 2007."
+    ]
+}

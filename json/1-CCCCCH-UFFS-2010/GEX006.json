@@ -1,0 +1,27 @@
+{
+    "codigo": "GEX006",
+    "creditos": 4,
+    "ementa": "No\u00e7\u00f5es b\u00e1sicas de Estat\u00edstica. S\u00e9ries e gr\u00e1ficos estat\u00edsticos. Distribui\u00e7\u00f5es de frequ\u00eancias.Medidas de tend\u00eancia central. Medidas de dispers\u00e3o. Medidas separatrizes. An\u00e1lise deAssimetria. No\u00e7\u00f5es de amostragem e infer\u00eancia.",
+    "horas": 60,
+    "nome": "ESTAT\u00cdSTICA B\u00c1SICA",
+    "objetivo": "Utilizar ferramentas da estat\u00edstica descritiva para interpretar, analisar e sintetizar dadosestat\u00edsticos com vistas \u00e0 compreens\u00e3o de contextos diversos.",
+    "referencias_basicas": [
+    	"BARBETTA, P. A. Estat\u00edstica aplicada \u00e0s Ci\u00eancias Sociais. 7. ed. Florian\u00f3polis: UFSC,2008.",
+    	"BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estat\u00edstica B\u00e1sica. 6. ed. S\u00e3oPaulo: Saraiva, 2009.",
+    	"CRESPO, A. A. Estat\u00edstica F\u00e1cil. 19. ed. S\u00e3o Paulo: Saraiva, 2009.",
+    	"FONSECA, Jairo Simon da; MARTINS, Gilberto de Andrade. Curso de Estat\u00edstica. 6. ed.12. reimpr. S\u00e3o Paulo: Atlas, 2009.",
+    	"PINHEIRO, Jo\u00e3o Ismael D. et al. Estat\u00edstica B\u00e1sica: a arte de trabalhar com dados. Rio deJaneiro: Elsevier, 2009.",
+        "TOLEDO, G. L.; OVALLE, I. I. Estat\u00edstica B\u00e1sica. 2. ed. S\u00e3o Paulo: Atlas, 2009."
+    ],
+    "referencias_complementares": [
+        "BORNIA, Antonio Cezar; REIS, Marcelo Menezes; BARBETTA, Pedro Alberto.Estat\u00edstica para cursos de engenharia e inform\u00e1tica. 2. ed. S\u00e3o Paulo: Atlas, 2008.",
+        "BUSSAB, Bolfarine H.; BUSSAB, Wilton O. Elementos de Amostragem. S\u00e3o Paulo:Blucher, 2005.",
+        "CARVALHO, S. Estat\u00edstica B\u00e1sica: teoria e 150 quest\u00f5es. 2. ed. Rio de Janeiro: Elsevier,2006.",
+        "LAPPONI, Juan Carlos. Estat\u00edstica usando Excel. 4. ed. Rio de Janeiro: Campus, 2005.MAGALH\u00c3ES, Marcos Nascimento; LIMA, Ant\u00f4nio Carlos Pedroso de. No\u00e7\u00f5es deProbabilidade e Estat\u00edstica. 7. ed. S\u00e3o Paulo: EDUSP, 2010.",
+        "MONTGOMERY, Douglas C.; RUNGER, George C.; HUBELE, Norma F. Estat\u00edsticaaplicada \u00e0 Engenharia. 2. ed. Rio de Janeiro: LTC, 2004.",
+        "TRIOLA, Mario F. Introdu\u00e7\u00e3o \u00e0 Estat\u00edstica. 10. ed. Rio de Janeiro: LTC, 2008.",
+        "SILVA, E. M. et al. Estat\u00edstica para os cursos de: Economia, Administra\u00e7\u00e3o e Ci\u00eanciasCont\u00e1beis. 2. ed. S\u00e3o Paulo: Atlas, 1996.",
+        "SPIEGEL, M. R. Estat\u00edstica. 3. ed. S\u00e3o Paulo: Makron Books, 1993.",
+        "VIEIRA, S.; HOFFMANN, R. Elementos de Estat\u00edstica. 2. ed. S\u00e3o Paulo: Atlas, 1995."
+    ]
+}

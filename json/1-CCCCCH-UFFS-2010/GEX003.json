@@ -1,0 +1,18 @@
+{
+    "codigo": "GEX003",
+    "creditos": 4,
+    "ementa": "Conceito e constru\u00e7\u00e3o de algoritmos. Tipos b\u00e1sicos de dados. Comandos de atribui\u00e7\u00e3o, condicionaise de repeti\u00e7\u00e3o. Registros. Vetores e Matrizes. Modulariza\u00e7\u00e3o.",
+    "horas": 60,
+    "nome": "ALGORITMOS E PROGRAMA\u00c7\u00c3O",
+    "objetivo": "Desenvolver o racioc\u00ednio l\u00f3gico para o desenvolvimento de algoritmos. Compreender comoo computador executa programas. Desenvolver algoritmos simples utilizando os conceitosaprendidos.",
+    "referencias_basicas": [
+        "LOPES, A.; GARCIA, G. Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o. Rio de Janeiro: Campus, 2002.",
+        "VILARIM, G. Algoritmos: Programa\u00e7\u00e3o para Iniciantes. Rio de Janeiro: Ci\u00eancia Moderna,2004.",
+        "FORBELLONE, A. L\u00f3gica de Programa\u00e7\u00e3o: A Constru\u00e7\u00e3o de Algoritmos e Estruturas deDados. S\u00e3o Paulo: Makron Books, 2005.",
+        "MANZANO, Jos\u00e9 Augusto N. G.; OLIVEIRA, Jayr Figueiredo. Algoritmos: L\u00f3gica paraDesenvolvimento de Programa\u00e7\u00e3o de Computadores. 19. ed. S\u00e3o Paulo: \u00c9rica, 2001."
+    ],
+    "referencias_complementares": [
+        "LOPES, A.; GARCIA, G. Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o: 500 algoritmos resolvidos. Rio deJaneiro: Campus, 2002.ARA\u00daJO, E. C. Algoritmos: Fundamentos e Pr\u00e1tica. 2. ed. Florian\u00f3polis: Visual Books,2005.",
+        "BORATTI, I. C. Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o: Algoritmos. 2. ed. Florian\u00f3polis: Visual Books,2004"
+    ]
+}

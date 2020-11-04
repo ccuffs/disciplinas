@@ -1,0 +1,22 @@
+{
+    "creditos": 4,
+    "codigo": "GEX606",
+    "ementa": "Dispositivos L\u00f3gicos Program\u00e1veis. Introdu\u00e7\u00e3o \u00e0 Linguagem de Descri\u00e7\u00e3o de Hardware. Prototipa\u00e7\u00e3o de hardware utilizando FPGAs. M\u00e1quinas Sequenciais S\u00edncronas (Mealy e Moore). S\u00edntese de Circuitos Sequenciais. Descri\u00e7\u00e3o de Sistemas Digitais no n\u00edvel de RT. Projeto de Sistemas Digitais no n\u00edvel de RT (datapath x controle).",
+    "horas": 60,
+    "nome": "SISTEMAS DIGITAIS",
+    "objetivo": "Compreender os conceitos e o funcionamento de circuitos digitais utilizados em computa\u00e7\u00e3o, atrav\u00e9s da apresenta\u00e7\u00e3o de t\u00e9cnicas de projeto e simula\u00e7\u00e3o e implementa\u00e7\u00e3o usando linguagens de descri\u00e7\u00e3o de hardware e tecnologias de prototipa\u00e7\u00e3o.",
+    "referencias_basicas": [
+        "ASHENDEN, Peter J. The Students guide to VHDL. Morgan Kaufmann, 2008.",
+        "D'AMORE, Roberto. VHDL: Descri\u00e7\u00e3o e S\u00edntese de Circuitos Digitais. Rio de Janeiro: LTC, 2005.",
+        "HARRIS, David M.; HARRIS, Sarah L. Digital Design and Computer Architecture. Rio de Janeiro: Elsevier, 2007.",
+        "TOCCI, Ronald; WIDMER, Neal; MOSS, Gregory. Sistemas Digitais: princ\u00edpios e aplica\u00e7\u00f5es. 10. ed. S\u00e3o Paulo: Pearson, 2007."
+    ],
+    "referencias_complementares": [
+        "IDOETA, Ivan V.; CAPUANO, Francisco G. Elementos de Eletr\u00f4nica Digital. 37. ed. S\u00e3o Paulo: Livros \u00c9rica Editora Ltda, 2006.",
+        "MELO, Mairton de Oliveira. Eletr\u00f4nica Digital. S\u00e3o Paulo: Makron Books, 1994.",
+        "OSBORNE, Adam. Microprocessadores \u2013 Circuitos B\u00e1sicos. S\u00e3o Paulo: McGraw-Hill, 1983.",
+        "TAUB, Herbert; SCHILLING, Donald. Eletr\u00f4nica Digital. S\u00e3o Paulo: McGraw-Hill, 1982.",
+        "TAUB, Herbert. Circuitos Digitais e Microprocessadores. S\u00e3o Paulo: McGraw-Hill, 1984.",
+        "TOKHEIN, Roger. Introdu\u00e7\u00e3o aos Microprocessadores. S\u00e3o Paulo: McGraw-Hill, 1985."
+    ]
+}

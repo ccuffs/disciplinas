@@ -1,0 +1,18 @@
+{
+    "creditos": 4,
+    "codigo": "GEX517",
+    "ementa": "An\u00e9is. Ideais. Corpos. An\u00e9is de polin\u00f4mios. Grupos.",
+    "horas": 60,
+    "nome": "\u00c1LGEBRA",
+    "objetivo": "Aprofundar conceitos e trabalhar com formalismos matem\u00e1ticos, familiarizando-se com os m\u00e9todos de demonstra\u00e7\u00e3o; Desenvolver a capacidade de racioc\u00ednio l\u00f3gico e organizado.",
+    "referencias_basicas": [
+        "DOMINGUES, H. H.; IEZZI, G. \u00c1lgebra moderna. 4. ed. S\u00e3o Paulo: Atual, 2003.",
+        "GON\u00c7ALVES, A. Introdu\u00e7\u00e3o \u00e0 \u00e1lgebra. 5. ed. Rio de Janeiro: IMPA, 2001. (Cole\u00e7\u00e3o Projeto Euclides)",
+        "HEFEZ, A. Curso de \u00e1lgebra. 2. ed. Rio de Janeiro: IMPA, 1997. (Cole\u00e7\u00e3o Matem\u00e1tica Universit\u00e1ria)"
+    ],
+    "referencias_complementares": [
+        "BOYER, C. B. Hist\u00f3ria da matem\u00e1tica. 2. ed. S\u00e3o Paulo: Edgard Blucher, 1996.",
+        "FILHO, E. A. Elementos de teoria dos an\u00e9is. S\u00e3o Paulo: Nobel, 1992.",
+        "GARCIA, A.; LEQUAIN, Y. \u00c1lgebra: um curso de introdu\u00e7\u00e3o. Rio de Janeiro: IMPA, 1988. (Cole\u00e7\u00e3o Projeto Euclides)"
+    ]
+}

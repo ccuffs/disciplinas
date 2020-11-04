@@ -1,0 +1,19 @@
+{
+    "creditos": 4,
+    "codigo": "GEX620",
+    "ementa": "RISC vs. CISC. Arquitetura do Processador MIPS: MIPS Monociclo e MIPS Multiciclo. MIPS Pipeline. Conflitos estruturais de dados e de controle. Processador superescalar. Processador VLIW. Multicore System on Chip.",
+    "horas": 60,
+    "nome": "ARQUITETURA DE COMPUTADORES",
+    "objetivo": "Conhecer os conceitos envolvidos na concep\u00e7\u00e3o da arquitetura e organiza\u00e7\u00e3o dos computadores, entendendo o conjunto de instru\u00e7\u00f5es, sua forma de implementa\u00e7\u00e3o em hardware e sua programa\u00e7\u00e3o.",
+    "referencias_basicas": [
+        "PATTERSON, David A.; HENNESSY, Jhon L. Arquitetura de Computadores: Uma abordagem quantitativa. 3. ed. Rio de Janeiro: Campus, 2003.",
+        "STALLINGS, W. Arquitetura e Organiza\u00e7\u00e3o de Computadores. 8. ed. S\u00e3o Paulo: Prentice Hall, 2010.",
+        "TANENBAUM, A. S. Organiza\u00e7\u00e3o Estruturada de Computadores. S\u00e3o Paulo: Prentice Hall do Brasil, 1992."
+    ],
+    "referencias_complementares": [
+        "BECKER, J\u00fcrgen; H\u00dcBNER, Michael. Multiprocessor System-on-Chip: Hardware Design and Tool Integration. Springer, 2011.",
+        "KORNAROS, Georgios. Multi-Core Embedded Systems. CRC Press, 2010.",
+        "MURDOCCA, Miles J. Introdu\u00e7\u00e3o \u00e0 Arquitetura de Computadores. Rio de Janeiro: Campus, 2001.",
+        "PATTERSON, David A.; HENNESSY, John L. Organiza\u00e7\u00e3o e Projeto de Computadores. Rio de Janeiro: Elsevier, 2005."
+    ]
+}

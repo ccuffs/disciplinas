@@ -1,0 +1,20 @@
+{
+    "codigo": "GEX033",
+    "creditos": 4,
+    "ementa": "Fun\u00e7\u00f5es de v\u00e1rias vari\u00e1veis. Limites e continuidade. Derivadas parciais e aplica\u00e7\u00f5es.Gradiente. Diferenciabilidade. Multiplicadores de Lagrange. Fun\u00e7\u00f5es vetoriais. Divergentee rotacional. Integrais m\u00faltiplas. Integrais curvil\u00edneas e de superf\u00edcie. Aplica\u00e7\u00f5es daintegra\u00e7\u00e3o. Teoremas de Green, Gauss e Stokes.",
+    "horas": 60,
+    "nome": "C\u00c1LCULO II",
+    "objetivo": "Introduzir as principais ferramentas do c\u00e1lculo diferencial e integral de fun\u00e7\u00f5es de v\u00e1riasvari\u00e1veis e c\u00e1lculo vetorial, abordando aplica\u00e7\u00f5es tanto de \u00e2mbito geral como relativo aocurso espec\u00edfico. Ademais, visa-se \u00e0 estrutura\u00e7\u00e3o e ao aprimoramento do racioc\u00ednio l\u00f3gicodedutivoe \u00e0 aquisi\u00e7\u00e3o de conhecimentos t\u00e9cnicos importantes para os referidos cursos.",
+    "referencias_basicas": [
+        "FLEMMING, D. M.; GON\u00c7ALVES, M. B. C\u00e1lculo B\/C. 2.\/3. ed. S\u00e3o Paulo: MakronBooks, 2007.",
+        "GUIDORIZZI, H. L. Um curso de c\u00e1lculo. 5. ed. Rio de Janeiro: LTC, 2001. v. 2 e 3.LEITHOLD, L. O c\u00e1lculo com geometria anal\u00edtica. 3. ed. S\u00e3o Paulo: Harbra, 1994. v. 2.STEWART, J. C\u00e1lculo. 6. ed. S\u00e3o Paulo: Cengage Learning, 2010. v. 2."
+    ],
+    "referencias_complementares": [
+        "ANTON, H.; BIVENS, I.; DAVIS, S. C\u00e1lculo. 8. ed. S\u00e3o Paulo: Bookman, 2007. v. 2.",
+        "APOSTOL, T. M. Calculus. 2. ed. New York: John Willey & Sons, 1969. v. 2.",
+        "LARSON, R.; HOSTETLER, R. P.; EDWARDS, B. H. C\u00e1lculo. 8. ed. S\u00e3o Paulo: McGrawHill, 2006. v. 2.",
+        "SALAS, Saturnino L.; HILLE, Einar; ETGEN, Garret J. C\u00e1lculo. 9. ed. Rio de Janeiro:LTC, 2005. 542 p. v. 2.",
+        "SIMMONS, G. F. C\u00e1lculo com geometria anal\u00edtica. S\u00e3o Paulo: McGraw Hill, 1987. v. 2.",
+        "THOMAS, G. B. C\u00e1lculo. 11. ed. S\u00e3o Paulo: Addison Wesley, 2008. v. 2."
+    ]
+}

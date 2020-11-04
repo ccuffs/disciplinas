@@ -1,0 +1,20 @@
+{
+    "codigo": "GEX099",
+    "creditos": 4,
+    "ementa": "Conceitos de aplica\u00e7\u00f5es para a Web. Linguagem de marca\u00e7\u00e3o HTML. Folhas de estilosCSS. Linguagens client-side e server-side. Desenvolvimento de aplica\u00e7\u00f5es para a Web.",
+    "horas": 60,
+    "nome": "PROGRAMA\u00c7\u00c3O II",
+    "objetivo": "Conhecer e aplicar as principais t\u00e9cnicas e ferramentas utilizadas no desenvolvimento desistemas para a Web.",
+    "referencias_basicas": [
+        "SILVA, Mauricio Samy. Criando Sites com HTML: Sites de Alta Qualidade com HTMLe CSS. S\u00e3o Paulo: Novatec, 2008.",
+        "FREEMAN, Eric. Use a Cabe\u00e7a HTML com CSS e XHTML. Rio de Janeiro: Alta Books,2008.",
+        "DEITEL, H. M.; DEITEL, P. J.; NIETO, T. R. Internet e world wide web: como programar.2. ed. Porto Alegre: Bookman, 2003.",
+        "SOARES, Walace. PHP 5: Conceitos, Programa\u00e7\u00e3o e Integra\u00e7\u00e3o com Banco de Dados. S\u00e3oPaulo: \u00c9rica, 2004.",
+        "NIEDERAUER, Juliano. Desenvolvendo Websites com PHP. S\u00e3o Paulo: Novatec, 2004.GON\u00c7ALVES, Edson. Desenvolvendo Aplica\u00e7\u00f5es Web com JSP, Servlets, Java ServerFaces, Hibernate, EJB 3 Persistence e Ajax. 1. ed. Rio de Janeiro: Ci\u00eancia Moderna,2007."
+    ],
+    "referencias_complementares": [
+        "BRAGA, Bruno da Rocha. Web development: usando o visual HTML editor. Rio de Janeiro:Ci\u00eancia Moderna, 2002.",
+        "CASTAGNETTO, Jesus et al. Profissional PHP programando. S\u00e3o Paulo: Makron Books,2001. 770 p.RAMALHO, Jos\u00e9 Antonio Alves. HTML avan\u00e7ado. Rio de Janeiro: Makron Books doBrasil, 1997.",
+        "THAU, Dave. O livro de JavaScript. Rio de Janeiro: Ci\u00eancia Moderna, 2001."
+    ]
+}

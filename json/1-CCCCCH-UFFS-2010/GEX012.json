@@ -1,0 +1,22 @@
+{
+    "codigo": "GEX012",
+    "creditos": 2,
+    "ementa": "\u00c1lgebra Linear em espa\u00e7os euclidianos: espa\u00e7os vetoriais euclidianos. Produto interno.Transforma\u00e7\u00f5es lineares. Autovalores e autovetores. Diagonaliza\u00e7\u00e3o.",
+    "horas": 30,
+    "nome": "\u00c1LGEBRA LINEAR",
+    "objetivo": "Propiciar ao aluno condi\u00e7\u00f5es de identificar e abstrair propriedades fundamentais que definemum espa\u00e7o vetorial real; identificar e reconhecer a matriz de uma transforma\u00e7\u00f5es linear;explicitar e reconhecer como subespa\u00e7os vetoriais o n\u00facleo e a imagem de uma transforma\u00e7\u00e3olinear; identificar operadores lineares; calcular autovalores e autovetores de umatransforma\u00e7\u00e3o linear; aplicar autovalores e autovetores a diversos problemas que se apresentem.",
+    "referencias_basicas": [
+        "CALLIOLI, C.; DOMINGUES, H.; COSTA, R. \u00c1lgebra linear e aplica\u00e7\u00f5es. 6. ed. S\u00e3oPaulo: Atual, 2006.",
+        "SANTOS, R. J. Um curso de geometria anal\u00edtica e \u00e1lgebra linear. Belo Horizonte: ImprensaUniversit\u00e1ria, 2009.",
+        "ANTON, H.; RORRES, C. \u00c1lgebra linear com aplica\u00e7\u00f5es. S\u00e3o Paulo: Bookman, 2001.",
+        "LEON, S. J. \u00c1lgebra linear com aplica\u00e7\u00f5es. 4. ed. Rio de Janeiro: LTC, 1999."
+    ],
+    "referencias_complementares": [
+        "BOLDRINI, J. L.; COSTA, S. I. R.; FIGUEIREDO, V. L.; WETZLER, H. G. \u00c1lgebra linear.3. ed. S\u00e3o Paulo: Harbra, 1986.",
+        "STEINBRUCH, A.; WINTERLE, P. \u00c1lgebra linear. 2. ed. S\u00e3o Paulo: Makron Books,1990.",
+        "LIMA, E. L. \u00c1lgebra linear. 2. ed. Rio de Janeiro: IMPA, 2008.",
+        "COELHO, F. U.; LOUREN\u00c7O, M. L. Um curso de \u00e1lgebra linear. 2. ed. S\u00e3o Paulo:Edusp, 2001.",
+        "HOFFMAN, K. M.; KUNZE, R. Linear algebra. 2. ed. Englewood Cliffs-NJ: PrenticeHall, 1971.",
+        "LIPSCHUTZ, S.; LIPSON, M. \u00c1lgebra linear. 3. ed. S\u00e3o Paulo: Bookman, 2004."
+    ]
+}

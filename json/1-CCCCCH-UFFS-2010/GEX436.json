@@ -1,0 +1,25 @@
+{
+    "codigo": "GEX436",
+    "creditos": 4,
+    "ementa": "Modelos de sistemas digitais: unidade de controle e unidade de processamento. Modelo deum sistema de computa\u00e7\u00e3o. Conceitos b\u00e1sicos de arquitetura: modo de endere\u00e7amento, tipode dado e conjunto de instru\u00e7\u00f5es. Chamada de subrotina; Linguagem Assembly. RISC vs.CISC. Pipeline. Organiza\u00e7\u00e3o de mem\u00f3ria (uniprocessadores). Tratamento de interrup\u00e7\u00f5es eexce\u00e7\u00f5es. Entrada e sa\u00edda.",
+    "horas": 60,
+    "nome": "ARQUITETURA DE COMPUTADORES",
+    "objetivo": "Conhecer os conceitos envolvidos na concep\u00e7\u00e3o da arquitetura e organiza\u00e7\u00e3o dos computadores,entendendo o conjunto de instru\u00e7\u00f5es, sua forma de implementa\u00e7\u00e3o em hardware esua programa\u00e7\u00e3o",
+    "referencias_basicas": [
+        "STALLINGS, W. Arquitetura e Organiza\u00e7\u00e3o de Computadores. S\u00e3o Paulo: PrenticeHall, 2002.",
+        "TANENBAUM, A. S. Organiza\u00e7\u00e3o Estruturada de Computadores. Ed. Prentice \/ Halldo Brasil, 1992.",
+        "HENNESSY, J. L.; PATTERSON, D. A. Arquitetura de Computadores \u2013 Uma AbordagemQuantitativa. Rio de janeiro: Ed. Campus, 2003.",
+        "MONTEIRO, Mario A. Introdu\u00e7\u00e3o a Organiza\u00e7\u00e3o de Computadores. 3. ed. Rio de Janeiro:LTC, 1996.",
+        "MURDOCCA, Miles J. Introdu\u00e7\u00e3o a Arquitetura de Computadores. Rio de Janeiro:Campus, 2001.",
+        "HENNESSY, John L. Organiza\u00e7\u00e3o e Projetos de Computadores: 2. ed. Rio de Janeiro:LTC, 2000."
+    ],
+    "referencias_complementares": [
+        "ZUFFO, J. A. Fundamentos de Arquitetura e Organiza\u00e7\u00e3o de Microprocessadores. S\u00e3oPaulo: Edgard Bl\u00fccher, 1978.",
+        "MALVINO, A. Microcomputadores e Microprocessadores. Ed. McGraw-Hill do Brasil,1985.",
+        "MELO, M. Eletr\u00f4nica Digital. S\u00e3o Paulo: Makron Books, 1993.",
+        "BUYYA, Rajkumar (Ed.). High Performance Cluster Computing: Programming and Applications.Prentice-Hall, 1999. 2 v.CASAVANT, Thomas L.; KUHL, Jon G. A Taxonomy of Scheduling in General-PurposeDistributed Computing Systems. IEEE Transactions on Software Engineering, v. 14, n.2, p. 141-154, Feb. 1988.",
+        "IDOETA, Ivan Valeije. Elementos de Eletr\u00f4nica Digital. 32. ed. S\u00e3o Paulo: \u00c9rica, 2001.",
+        "TOCCI, Ronald J. Microprocessadores e Microcomputadores. 3. ed. Rio de Janeiro:Prentice Hall, 1987.",
+        "TOCCI, Ronald J. Sistemas Digitais: Rio de Janeiro: Prentice Hall, 1991."
+    ]
+}

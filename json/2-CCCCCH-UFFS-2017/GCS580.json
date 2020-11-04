@@ -1,0 +1,25 @@
+{
+    "creditos": 4,
+    "codigo": "GCS580",
+    "ementa": "Projetos. Gerenciamento de projetos. Gerenciamento de projetos de software. Metodologias de planejamento e gest\u00e3o de projetos. \u00c1reas de conhecimento da ger\u00eancia de projetos: Escopo, Tempo, Risco, Integra\u00e7\u00e3o, Comunica\u00e7\u00e3o, Custo, Recursos Humanos, Aquisi\u00e7\u00e3o e Qualidade. Grupos de processos: Inicia\u00e7\u00e3o, Planejamento, Execu\u00e7\u00e3o, Controle, Encerramento. T\u00e9cnicas de acompanhamento de projetos. Metodologias \u00e1geis para gerenciamento de projetos.",
+    "horas": 60,
+    "nome": "PLANEJAMENTO E GEST\u00c3O DE PROJETOS",
+    "objetivo": "Planejar e gerenciar projetos de software utilizando metodologias de gerenciamento de projetos adequadas.",
+    "referencias_basicas": [
+        "COHN, M. Desenvolvimento de software com SCRUM \u2013 aplicando m\u00e9todos \u00e1geis com sucesso. Bookman, 2011.",
+        "CORDEIRO, J. C. C. Gerenciando Projetos de Desenvolvimento de Software com PMI, RUP e UML. 5. ed. Rio de Janeiro: Brasport, 2011.",
+        "PROJECT MANAGEMENT INSTITUTE. Um Guia do Conjunto de Conhecimentos do Gerenciamento de Projetos \u2013 PMBOK (Project Management Body of Knowledge) Guide. 4. ed. PMI, Edi\u00e7\u00e3o em portugu\u00eas, 2008.",
+        "VARGAS, R. V. Gerenciamento de Projetos \u2013 Estabelecendo diferenciais competitivos. 7. ed. Rio de Janeiro: Brasport, 2009."
+    ],
+    "referencias_complementares": [
+        "ALMEIDA, N. O. Gerenciamento de Portf\u00f3lio - Alinhando o Gerenciamento de Projetos \u00e0 Estrat\u00e9gia da Empresa e Definindo Sucesso e M\u00e9tricas em Projetos. Brasport, 2011.",
+        "DINSMORE, P. C.; SILVEIRA, N. F. H. Gerenciamento de Projetos e o Fator Humano. Rio de Janeiro: Qualitymark, 2005.",
+        "KERZNER, H. Gest\u00e3o de Projetos: As Melhores Pr\u00e1ticas. 2. ed. Porto Alegre: Bookman, 2006.",
+        "KNIBERG, Henrik. Scrum and XP from the Trenches. InfoQ, 2007. Dispon\u00edvel em: <http:\/\/www.infoq.com\/minibooks\/scrum-xp-from-the-trenches>.",
+        "MARTINS, J. C. C. T\u00e9cnicas para gerenciamento de projetos de software. BRASPORT, 2007.",
+        "MENEZES, L. C. M. Gest\u00e3o de Projetos. S\u00e3o Paulo: Atlas, 2003.",
+        "PHILLIPS, J. Ger\u00eancia de projetos de Tecnologia da Informa\u00e7\u00e3o. Rio de Janeiro: Campus, 2003.",
+        "VALERIANO, D. L. Moderno Gerenciamento de Projetos. S\u00e3o Paulo: Prentice Hall, 2005.",
+        "VIEIRA, M. F. Gerenciamento de Projetos de Tecnologia da Informa\u00e7\u00e3o. Rio de Janeiro: Campus, 2004."
+    ]
+}

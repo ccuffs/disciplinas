@@ -1,0 +1,18 @@
+{
+    "codigo": "GCS319",
+    "creditos": 4,
+    "ementa": "O papel da administra\u00e7\u00e3o geral das organiza\u00e7\u00f5es, quanto aos seus princ\u00edpios, desenvolvimentoe \u00e1reas de conhecimento correlatas. Caracteriza\u00e7\u00e3o da evolu\u00e7\u00e3o das organiza\u00e7\u00f5es empresariais,no que se refere aos seus sistemas de produ\u00e7\u00e3o e \u00e0 sua organiza\u00e7\u00e3o do trabalho.Mudan\u00e7as econ\u00f4micas ocorridas e seus impactos nas organiza\u00e7\u00f5es. Tratamento dos conceitosde marketing e gest\u00e3o de marketing nas empresas. Contextualiza\u00e7\u00e3o para a pequena empresade tecnologia de inform\u00e1tica.",
+    "horas": 60,
+    "nome": "ADMINISTRA\u00c7\u00c3O E ORGANIZA\u00c7\u00c3O EMPRESARIA",
+    "objetivo": "Desenvolver uma vis\u00e3o geral e abrangente da administra\u00e7\u00e3o e da organiza\u00e7\u00e3o empresarialapresentando as principais teorias administrativas e aplica\u00e7\u00f5es pr\u00e1ticas de empreendedorismocontextualizadas no ambiente empresarial brasileiro.",
+    "referencias_basicas": [
+        "MONTANA, Patrick J. Administra\u00e7\u00e3o. S\u00e3o Paulo: Saraiva, 1999.",
+        "CHIAVENATO, Idalberto. Introdu\u00e7\u00e3o \u00e0 teoria geral da administra\u00e7\u00e3o. 6. ed. Rio de Janeiro:Campus, 2000.",
+        "AMIL, George Leal. Repensando a TI na empresa moderna: atualizando a gest\u00e3o com atecnologia da informa\u00e7\u00e3o. Rio de Janeiro: Axcel Books, 2001."
+    ],
+    "referencias_complementares": [
+        "MAXIMIANO, Ant\u00f4nio C. A. Introdu\u00e7\u00e3o a Administra\u00e7\u00e3o. S\u00e3o Paulo: Atlas, 2000.ARA\u00daJO, Lu\u00eds Cesar G. de. Organiza\u00e7\u00e3o e m\u00e9todos. S\u00e3o Paulo: Atlas, 1985.",
+        "CORTES, P. L. Administra\u00e7\u00e3o de Sistemas De Informa\u00e7\u00e3o. S\u00e3o Paulo: Saraiva, 2008.",
+        "WEILL, P.; ROBERTSON, D. C.; ROSS, J. W. Arquitetura de TI como Estrat\u00e9gia Empresarial.S\u00e3o Paulo: M. BOOKS, 2004."
+    ]
+}

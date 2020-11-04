@@ -1,0 +1,24 @@
+{
+    "creditos": 4,
+    "codigo": "GEX208",
+    "ementa": "Fundamentos de inform\u00e1tica. Conhecimentos de sistemas operacionais. Utiliza\u00e7\u00e3o da rede mundial de computadores. Ambientes virtuais de aprendizagem. Conhecimentos de softwares de produtividade para cria\u00e7\u00e3o de projetos educativos e\/ou t\u00e9cnicos e\/ou multimidi\u00e1ticos.",
+    "horas": 60,
+    "nome": "INFORM\u00c1TICA B\u00c1SICA",
+    "objetivo": "Operar as ferramentas b\u00e1sicas de inform\u00e1tica de forma a poder utiliz\u00e1-las interdisciplinarmente, de modo cr\u00edtico, criativo e pr\u00f3-ativo.",
+    "referencias_basicas": [
+        "ANTONIO, Jo\u00e3o. Inform\u00e1tica para Concursos: teoria e quest\u00f5es. Rio de Janeiro: Campus-Elsevier, 2009.",
+        "CAPRON, H. L.; JOHNSON, J. A. Introdu\u00e7\u00e3o \u00e0 Inform\u00e1tica. 8. ed. S\u00e3o Paulo: Pearson Prentice Hall, 2004.",
+        "NORTON, P. Introdu\u00e7\u00e3o \u00e0 inform\u00e1tica. S\u00e3o Paulo: Pearson, 2010.",
+        "SEBBEN, A.; MARQUES, A. C. H. (Org.). Introdu\u00e7\u00e3o \u00e0 inform\u00e1tica: uma abordagem com libreofficce. Chapec\u00f3: UFFS, 2012. 201 p. ISBN: 978-85-64905-02-3. Dispon\u00edvel em: <cc.uffs.edu.br\/downloads\/ebooks\/Introducao_a_Informatica.pdf>. Acesso em: 10 ago. 2012."
+    ],
+    "referencias_complementares": [
+        "FEDELI, Ricardo D.; POLLONI, Enrico G. P.; PERES, Fernando E. Introdu\u00e7\u00e3o \u00e0 ci\u00eancia da computa\u00e7\u00e3o. 2. ed. S\u00e3o Paulo: CENGAGE Learning, 2010.",
+        "HILL, Benjamin Mako; BACON, Jono. O livro oficial do Ubuntu. 2. ed. Porto Alegre: Bookman, 2008.",
+        "LANCHARRO, Eduardo Alcalde; LOPEZ, Miguel Garcia; FERNANDEZ, Salvador Pe\u00f1uelas. Inform\u00e1tica b\u00e1sica. S\u00e3o Paulo: Pearson Makron Books, 2004.",
+        "MANZANO, Andr\u00e9 Luiz N. G.; TAKA, Carlos Eduardo M. Estudo dirigido de microsoft windows 7 ultimate. S\u00e3o Paulo: \u00c9rica, 2010.",
+        "MEYER, M.; BABER, R.; PFAFFENBERGER, B. Nosso futuro e o computador. Porto Alegre: Bookman, 1999.",
+        "MONTEIRO, M. A. Introdu\u00e7\u00e3o \u00e0 organiza\u00e7\u00e3o de computadores. 5. ed. Rio de Janeiro: LTC, 2007.",
+        "MORGADO, Flavio. Formatando teses e monografias com BrOffice. Rio de Janeiro: Ci\u00eancia Moderna, 2008.",
+        "SCHECHTER, Renato. BROffice Calc e Writer: trabalhe com planilhas e textos em software livre. Rio de Janeiro: Elsevier, 2006."
+    ]
+}

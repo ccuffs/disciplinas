@@ -1,0 +1,20 @@
+{
+    "creditos": 4,
+    "codigo": "GEX617",
+    "ementa": "Evolu\u00e7\u00e3o das principais linguagens de programa\u00e7\u00e3o. Sintaxe e Sem\u00e2ntica. Nomes. Vincula\u00e7\u00e3o\/Amarra\u00e7\u00e3o. Verifica\u00e7\u00e3o de tipos e escopos. Tipos de dados. Express\u00f5es e instru\u00e7\u00f5es de atribui\u00e7\u00e3o. Estruturas de controle no n\u00edvel da instru\u00e7\u00e3o. Subprogramas. Tipos abstratos de dados. Concorr\u00eancia. Tratamento de Exce\u00e7\u00f5es. Linguagens declarativas: l\u00f3gicas, funcionais, com restri\u00e7\u00f5es.",
+    "horas": 60,
+    "nome": "LINGUAGENS DE PROGRAMA\u00c7\u00c3O",
+    "objetivo": "Entender a classifica\u00e7\u00e3o das linguagens de programa\u00e7\u00e3o e seu contexto hist\u00f3rico. Compreender os aspectos t\u00e9cnicos de implementa\u00e7\u00e3o dos diferentes recursos oferecidos pelas principais linguagens. Adquirir a experi\u00eancia de programar em paradigmas n\u00e3o- usuais de programa\u00e7\u00e3o a fins de compara\u00e7\u00e3o nos mais diversos contextos.",
+    "referencias_basicas": [
+        "LOUDEN, K. C.; LAMBERT, K. A. Programming Languages: Principles And Practices. 3. ed. Hardcover, 2011.",
+        "PRATT, T. W.; ZELKOWITZ, M. V. Programming Languages: Design and Implementation. 4. ed. Prentice-Hall, 2000.",
+        "SEBESTA, R. W. Concepts Of Programming Languages. 10. ed. Hardcover, 2012.",
+        "WATT, D. A. Conceitos de linguagens de programa\u00e7\u00e3o. 5. ed. Porto Alegre: Bookman, 2003."
+    ],
+    "referencias_complementares": [
+        "GHEZZI, C. Conceitos de Linguagens de Programa\u00e7\u00e3o. 2. ed. Rio de Janeiro: Campus, 1991.",
+        "SEBESTA, R. W. Conceitos de Linguagens de Programa\u00e7\u00e3o. 9. ed. Porto Alegre: Bookman, 2011.",
+        "VAREJ\u00c3O, F. M. Linguagens de Programa\u00e7\u00e3o: Conceitos e T\u00e9cnicas. 1. ed. Rio de Janeiro: Campus, 2004.",
+        "WATT, D. A. Programming Languages: Concepts and Paradigms. 1. ed. S\u00e3o Paulo: Prentice-Hall, 1990."
+    ]
+}

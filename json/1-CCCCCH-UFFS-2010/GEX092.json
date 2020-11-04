@@ -1,0 +1,19 @@
+{
+    "codigo": "GEX092",
+    "creditos": 4,
+    "ementa": "\u00c1rvores e suas generaliza\u00e7\u00f5es: \u00e1rvores bin\u00e1rias, \u00e1rvores de busca, \u00e1rvores balanceadas. Percursosem \u00e1rvores. Armazenamento de Dados. Organiza\u00e7\u00e3o de arquivos. Ordena\u00e7\u00e3o externa.\u00c1rvores B e B+. \u00cdndices. Implementa\u00e7\u00f5es com linguagem imperativa estruturada.",
+    "horas": 60,
+    "nome": "ESTRUTURA DE DADOS II",
+    "objetivo": "Utilizar estruturas de dados avan\u00e7adas para a solu\u00e7\u00e3o de problemas computacionais. Construiralgoritmos para persistir dados e tratar dados persistidos utilizando comandos b\u00e1sicosda linguagem.",
+    "referencias_basicas": [
+        "EDELWEISS, N.; GALANTE, R. Estruturas de Dados. Porto Alegre: Bookman, 2009.",
+        "CORMEN, T.; LEISERSON, C.; RIVEST, R.; STEIN, C. Algoritmos: Teoria e Pr\u00e1tica.Rio de Janeiro: Campus, 2002.",
+        "ZIVIANI, N. Projeto de Algoritmos com Implementa\u00e7\u00f5es Pascal e C. 2. ed. S\u00e3o Paulo:Thomson Pioneira, 2004.",
+        "FERRAZ, I. N. Programa\u00e7\u00e3o com Arquivos. Barueri: Manole, 2002.",
+        "WIRTH, N. Algoritmos e Estruturas de Dados. Rio de Janeiro: LTC, 1989."
+    ],
+    "referencias_complementares": [
+        "HOPCROFT, J.; AHO, A. V. Data Structures and Algorithms. Boston: Addison Wesley,1983.",
+        "KNUTH, D. E. The Art of Computer Programming. 3. ed. Boston: Addison-Wesley,2003."
+    ]
+}

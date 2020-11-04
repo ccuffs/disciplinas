@@ -1,0 +1,22 @@
+{
+    "creditos": 4,
+    "codigo": "GEX105",
+    "ementa": "Fundamentos de transmiss\u00e3o de dados e sistemas de comunica\u00e7\u00e3o. Conceitos, classifica\u00e7\u00e3o e topologias das redes. Modelos de refer\u00eancia: OSI e TCP\/IP. Protocolos e servi\u00e7os de comunica\u00e7\u00e3o. Internet e Intranets. Meios de transmiss\u00e3o de dados. Equipamentos de interconex\u00e3o. Avalia\u00e7\u00e3o de desempenho.",
+    "horas": 60,
+    "nome": "REDES DE COMPUTADORES",
+    "objetivo": "Compreender as redes de computadores, conhecendo o modelo de refer\u00eancia OSI, a arquitetura TCP\/IP e seus protocolos, equipamentos e principais aplica\u00e7\u00f5es.",
+    "referencias_basicas": [
+        "COMER, Douglas E. Redes de computadores e Internet. 4. ed. Porto Alegre: Bookman, 2007.",
+        "FOROUZAN, Behrouz A. Comunica\u00e7\u00e3o de dados e redes de computadores. McGraw- Hill - Artmed, 2008.",
+        "KUROSE, James F.; ROSS, Keith W. Redes de computadores e a Internet: uma abordagem top-down. 5. ed. S\u00e3o Paulo: Pearson Addison Wesley, 2010.",
+        "PETERSON, L.; DAVIE, B. Computer networks: a systems approach. 5. ed. Morgan Kaufmann, 2011.",
+        "TANENBAUM, Andrew S. Redes de computadores. 5. ed. Rio de Janeiro-RJ: Campus, 2011."
+    ],
+    "referencias_complementares": [
+        "COMER, Douglas E. Interliga\u00e7\u00e3o de redes com TCP\/IP. 5. ed. Rio de Janeiro: Campus, 2006. v. 1.",
+        "DANTAS, M\u00e1rio. Tecnologias de redes de comunica\u00e7\u00e3o e computadores. Rio de Janeiro: Axcel Books, 2002.",
+        "HUITEMA, C. Routing in the Internet. Prentice-Hall, 2000.",
+        "TODD, K.; BARRET, D. Redes de Computadores. LTC, 2010.",
+        "WHITE, C. M. Redes de Computadores e Comunica\u00e7\u00e3o de Dados. 6. ed. Cengage, 2011."
+    ]
+}

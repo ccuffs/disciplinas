@@ -1,0 +1,21 @@
+{
+    "creditos": 4,
+    "codigo": "GEX618",
+    "ementa": "Defini\u00e7\u00e3o e conceitos de Intelig\u00eancia Artificial. L\u00f3gica Nebulosa. Algoritmos Gen\u00e9ticos. Redes Neurais Artificiais. Redes Bayesianas. Agentes l\u00f3gicos, infer\u00eancia, planejamento e representa\u00e7\u00e3o de conhecimento. Aprendizagem de m\u00e1quina. T\u00e9cnicas de intelig\u00eancia artificial aplicadas \u00e0 resolu\u00e7\u00e3o de problemas. Representa\u00e7\u00e3o de conhecimento. Sistemas baseados em conhecimento. Aprendizagem de m\u00e1quina. Arquiteturas de sistemas de Intelig\u00eancia Artificial.",
+    "horas": 60,
+    "nome": "INTELIG\u00caNCIA ARTIFICIAL",
+    "objetivo": "Adquirir o conhecimento b\u00e1sico para trabalhar com as abordagens diferenciadas da Intelig\u00eancia Artificial, objetivando simular comportamento inteligente atrav\u00e9s da m\u00e1quina.",
+    "referencias_basicas": [
+        "BITTENCOURT, G. Intelig\u00eancia Artificial. 3. ed. Florian\u00f3polis: UFSC, 2006.",
+        "COPPIN, B. Intelig\u00eancia Artificial. S\u00e3o Paulo: LTC, 2010.",
+        "LUGER, G. F. Artificial Intelligence Structures And Strategies For Complex Problem Solving. Addison Wesley, 2008.",
+        "LUGER, G. F. Artructures And Strategiesortelig\u00eancia Artificial. S\u00e3o Paulo: LTC, 2010.",
+        "RUSSEL, S.; NORVIG, P. Artificial Intelligence: A Modern Approach. 3. ed. Prentice Hall, 2009.",
+        "REFER\u00caNCIAS",
+        "CLOCKSIN, H. F.; MELLISH, C. S. Programming in Prolog. Berlim: Spring-Verlag, 1984.",
+        "NIKOLOPOULOS, C. Expert Systems: Introduction to first and second generation and hybrid knowledge-based systems. Marcel Decker Inc. Press, 1997.",
+        "NILSSON, N. J. Principles of Artificial Inteligence. Springer-Verlag, 1982.",
+        "ROWE, N. C. Artificial Intelligence Through Prolog. Prentice Hall, 1988.",
+        "WINSTON, Patrick H. Artificial Intelligence. 3. ed. Addison-Wesley Publishing, 1992."
+    ]
+}

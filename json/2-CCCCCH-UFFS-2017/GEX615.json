@@ -1,0 +1,25 @@
+{
+    "creditos": 4,
+    "codigo": "GEX615",
+    "ementa": "Engenharia de software: evolu\u00e7\u00e3o, conceito e objetivo. Processo e ciclo de vida de desenvolvimento de software. M\u00e9todos de an\u00e1lise e de projeto de software. Engenharia de requisitos. Gerenciamento de configura\u00e7\u00e3o de software e ferramentas para controle de vers\u00e3o. Verifica\u00e7\u00e3o, valida\u00e7\u00e3o e teste. Entrega e manuten\u00e7\u00e3o. Medi\u00e7\u00e3o de software. Garantia da qualidade de software. M\u00e9todos \u00e1geis de desenvolvimento de software. Compara\u00e7\u00e3o entre m\u00e9todos \u00e1geis e m\u00e9todos tradicionais. Ambientes de desenvolvimento de software.",
+    "horas": 60,
+    "nome": "ENGENHARIA DE SOFTWARE I",
+    "objetivo": "Compreender o processo completo de desenvolvimento de produtos de software e os procedimentos necess\u00e1rios, com \u00eanfase no planejamento e melhoria cont\u00ednua.",
+    "referencias_basicas": [
+        "PFLEEGER, S. L. Engenharia de Software. 2. ed. S\u00e3o Paulo: Prentice Hall, 2004.",
+        "PRESSMAN, R. S. Engenharia de Software. 7. ed. S\u00e3o Paulo: Bookman Companhia, 2011.",
+        "SOMMERVILLE, I. Engenharia de Software. 8. ed. S\u00e3o Paulo: Addison - Wesley, 2008.",
+        "WAZLAWICK, R. S. Engenharia de Software: Conceitos e pr\u00e1tica. Rio de Janeiro: Elsevier, 2013.",
+        "REFER\u00caNCIAS",
+        "ANSELMO, F. M\u00e9tricas para desenvolvedores. Florian\u00f3polis: Visual Books, 2010.",
+        "BASTOS, A. Base de Conhecimento em Teste de Software. S\u00e3o Paulo: Martins, 2012.",
+        "LARMAN, C. Agile And Iterative Development. S\u00e3o Paulo: Prentice-Hall, 2003.",
+        "SOFTEX. MPS.BR \u2013 Melhoria de Processo do Software Brasileiro \u2013 Guia Geral. Softex, 2011.",
+        "POPPENDIECK, M.; POPPENDIECK, T. Implementando o desenvolvimento lean de software. Porto Alegre: BOOKMAN, 2010.",
+        "RIOS, E. An\u00e1lise de Riscos em Projetos de Teste de Software. Rio de Janeiro: Alta Books, 2005.",
+        "SBROCCO, J. H. T.; MACEDO, P. C. Metodologias \u00e1geis \u2013 engenharia de software sob medida. S\u00e3o Paulo: \u00c9rica, 2012.",
+        "SOFTWARE ENGINEERING INSTITUTE. CMMI for Development, Version 1.2 \u2013 CMMI-DEV, V1.3. Software Engineering Institute, 2010.",
+        "TONSIG, S. L. Engenharia de Software: An\u00e1lise e Projeto de Sistemas. S\u00e3o Paulo: Futura, 2003.",
+        "YOUNG, M.; PEZZE, M. Teste e an\u00e1lise de software \u2013 processos, princ\u00edpios e t\u00e9cnicas. Porto Alegre: Bookman, 2008."
+    ]
+}

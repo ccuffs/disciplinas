@@ -1,0 +1,19 @@
+{
+    "creditos": 4,
+    "codigo": "GEX440",
+    "ementa": "Conceitos e teoria de sistemas. Classifica\u00e7\u00e3o, objetivos, fun\u00e7\u00f5es e componentes dos sistemas de informa\u00e7\u00e3o. N\u00edveis de sistemas: estrat\u00e9gico, t\u00e1tico e operacional. Dimens\u00f5es tecnol\u00f3gica, organizacional e humana. Administra\u00e7\u00e3o de sistemas de informa\u00e7\u00e3o. Planejamento estrat\u00e9gico de sistemas de informa\u00e7\u00e3o. Governan\u00e7a de tecnologia de informa\u00e7\u00e3o. Planejamento estrat\u00e9gico de sistemas de informa\u00e7\u00e3o.",
+    "horas": 60,
+    "nome": "SISTEMAS DE INFORMA\u00c7\u00c3O",
+    "objetivo": "Desenvolver o pensamento sist\u00eamico, tendo em vista a din\u00e2mica organizacional e o papel estrat\u00e9gico dos sistemas de informa\u00e7\u00e3o para as organiza\u00e7\u00f5es.",
+    "referencias_basicas": [
+        "BURGELMAN, R. A.; CHRISTENSEN, C. M.; WHEELWRIGTH, S. C. Gest\u00e3o estrat\u00e9gica da tecnologia e da inova\u00e7\u00e3o \u2013 conceitos e solu\u00e7\u00f5es. 5. ed. S\u00e3o Paulo: Mcgraw Hill, 2012.",
+        "LAUDON, Kenneth C.; LAUDON, Jane P. Sistemas de Informa\u00e7\u00f5es Gerenciais. 7. ed. S\u00e3o Paulo: Prentice Hall, 2007.",
+        "O\u2019BRIEN, James A. Administra\u00e7\u00e3o de Sistemas de Informa\u00e7\u00e3o. 13. ed. S\u00e3o Paulo: McGraw-Hill, 2007."
+    ],
+    "referencias_complementares": [
+        "BARBIERI, C. BI2: Business Intelligence \u2013 modelagem e qualidade. S\u00e3o Paulo: Campus, 2011.",
+        "LUNA, A. Implantando governan\u00e7a \u00e1gil \u2013 MANGVE. Rio de Janeiro: Brasport, 2011.",
+        "KAPLAN, R.; NORTON, D. Mapas estrat\u00e9gicos: balanced scorecard. S\u00e3o Paulo: Campus, 2004.",
+        "MANSUR, R. Governan\u00e7a de TI: metodologias, frameworks e melhores pr\u00e1ticas. Rio de Janeiro: Brasport, 2007."
+    ]
+}

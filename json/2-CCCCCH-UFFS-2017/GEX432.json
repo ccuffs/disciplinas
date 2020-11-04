@@ -1,0 +1,18 @@
+{
+    "creditos": 4,
+    "codigo": "GEX432",
+    "ementa": "Introdu\u00e7\u00e3o ao paradigma de programa\u00e7\u00e3o funcional: nomes, fun\u00e7\u00f5es, tipos, fun\u00e7\u00f5es de ordem superior, polimorfismos, linguagens funcionais. Introdu\u00e7\u00e3o ao paradigma de programa\u00e7\u00e3o l\u00f3gica: l\u00f3gica de primeira ordem, l\u00f3gica clausal, resolu\u00e7\u00f5es SLD e Ch\u00e3, unifica\u00e7\u00e3o, estrat\u00e9gias de procura, corte e nega\u00e7\u00e3o, linguagens l\u00f3gicas.",
+    "horas": 60,
+    "nome": "PROGRAMA\u00c7\u00c3O FUNCIONAL E L\u00d3GICA",
+    "objetivo": "Compreender os conceitos e desenvolver programas utilizando os paradigmas de programa\u00e7\u00e3o em l\u00f3gica e programa\u00e7\u00e3o funcional.",
+    "referencias_basicas": [
+        "BIRD, R. Introduction to Functional Programming using Haskell. 2. ed. S\u00e3o Paulo: Prentice Hall, 1998.",
+        "DE S\u00c1, C. C.; SILVA, M. F. Haskell \u2013 Uma Abordagem Pr\u00e1tica. S\u00e3o Paulo: Novatec, 2006.",
+        "NILSSON, U.; MALUSZYNSKI, J. Logic, Programming and Prolog. John Wiley and Sons, 1995. 276 p.",
+        "RABHI, F. A.; LAPALME, G. Algorithms: A Functional Programming Approach. Addison Wesley, 1999."
+    ],
+    "referencias_complementares": [
+        "STERLING, L. The Practice of Prolog. MIT PRESS, 1990.",
+        "CALLEAR, D. Prolog Programming for Students with Expert Systems and Artificial Intelligence. Cengage Learning INT, 2001."
+    ]
+}

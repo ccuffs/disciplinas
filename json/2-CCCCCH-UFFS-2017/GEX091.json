@@ -1,0 +1,19 @@
+{
+    "creditos": 4,
+    "codigo": "GEX091",
+    "ementa": "Armazenamento f\u00edsico. Estruturas de indexa\u00e7\u00e3o. Processamento e otimiza\u00e7\u00e3o de consultas. Processamento de transa\u00e7\u00f5es. Controle de concorr\u00eancia. Recupera\u00e7\u00e3o ap\u00f3s falhas. Conceitos avan\u00e7ados de SQL.",
+    "horas": 60,
+    "nome": "BANCO DE DADOS II",
+    "objetivo": "Entender como os sistemas gerenciadores de banco de dados relacionais (SGBDR) armazenam fisicamente os dados para acesso. Compreender os componentes dos SGBDR.",
+    "referencias_basicas": [
+        "ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de banco de dados. 4. ed. S\u00e3o Paulo: Pearson Addison Wesley, 2005.",
+        "GARCIA-MOLINA, Hector; ULLMAN, Jeffrey D.; WIDOM, Jennifer. Database systems: the complete book. 2. ed. New Jersey: Pearson Prentice-Hall, 2009.",
+        "RAMAKRISHNAN, Raghu; GEHRKE, Johannes. Sistemas de gerenciamento de banco de dados. 3. ed. S\u00e3o Paulo: McGraw-Hill Medical, 2008.",
+        "SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistema de banco de dados. Rio de Janeiro: Elsevier, 2006."
+    ],
+    "referencias_complementares": [
+        "ATZENI, Paolo; CERI, Stefano; PARABOSCHI, Stefano; TORLONE, Riccardo. Database Systems Concepts, Languages and Architetures. McGraw-Hill, 1999.",
+        "DATE, C. J. Introdu\u00e7\u00e3o a Sistemas de Bancos de Dados. 8. ed. Rio de Janeiro: Campus, 2004.",
+        "ULLMAN, Jeffrey D.; WIDOM, Jennifer. A first course in database systems. 3. ed. New Jersey: Prentice Hall, 2008."
+    ]
+}

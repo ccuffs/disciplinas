@@ -1,0 +1,19 @@
+{
+    "codigo": "GEX442",
+    "creditos": 4,
+    "ementa": "Classes de linguagens de programa\u00e7\u00e3o. Propriedades das Linguagens. Amarra\u00e7\u00f5es. Valorese tipos de dados. Vari\u00e1veis e constantes. Express\u00f5es e comandos. Modulariza\u00e7\u00e3p e passagemde par\u00e2metros. Polimorfismo. Exce\u00e7\u00f5es. Concorr\u00eancia. Avalia\u00e7\u00e3o de Linguagens",
+    "horas": 60,
+    "nome": "PARADIGMAS DE LINGUAGEM DE PROGRAMA\u00c7\u00c3",
+    "objetivo": "Desenvolver a capacidade de compreender os principais paradigmas de linguagens de programa\u00e7\u00e3o.",
+    "referencias_basicas": [
+        "VAREJ\u00c3O, F. Linguagens de programa\u00e7\u00e3o JAVA, C e C++ e outras: conceitos e t\u00e9cnicas.Rio de Janeiro: Campus, 2004.",
+        "SEBESTA, R. W. Conceitos de linguagens de programa\u00e7\u00e3o. 5. ed. Porto Alegre: Book-man, 2003.",
+        "WATT, D. A. Programming language: concepts and paradigms. Hertfordshire: PenticeHall, 1990."
+    ],
+    "referencias_complementares": [
+        "MITCHELL, J. C. Fundations for Programming Languagens. USA: MIT Press, 1996.",
+        "PRATT, T. W.; ZELKOWITZ, M. V. Programming languages: design and implementation.3. ed. Englewood chifs: Prentice Hall, 1996.",
+        "SILVA, J. C. G; ASSIS, F. S. G. Linguagem de programa\u00e7\u00e3o: conceitos e avalia\u00e7\u00e3o. Riode Janeiro: McGraw-Hill, 1988.",
+        "WATT, D. A. Programming language: concepts and paradigms. Hertfordshire: PenticeHall, 1990."
+    ]
+}

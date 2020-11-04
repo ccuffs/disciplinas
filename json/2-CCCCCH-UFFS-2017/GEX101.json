@@ -1,0 +1,18 @@
+{
+    "creditos": 4,
+    "codigo": "GEX101",
+    "ementa": "Alfabeto, palavras, linguagens, aut\u00f4matos, gram\u00e1ticas e suas representa\u00e7\u00f5es. A hierarquia de Chomsky. Linguagens regulares, aut\u00f4matos finitos, gram\u00e1ticas regulares e express\u00f5es regulares. Linguagens livres de contexto, gram\u00e1ticas livres do contexto e aut\u00f4matos de pilha. Linguagens sens\u00edveis ao contexto e irrestritas. Gram\u00e1ticas: ambiguidade e desambigua\u00e7\u00e3o.",
+    "horas": 60,
+    "nome": "LINGUAGENS FORMAIS E AUT\u00d4MATOS",
+    "objetivo": "Compreender os conceitos de alfabeto, palavra, linguagem, gram\u00e1tica e aut\u00f4mato e sua import\u00e2ncia para a formaliza\u00e7\u00e3o da Computa\u00e7\u00e3o. Classificar formalmente uma linguagem de acordo com a hierarquia de Chomsky. Dominar as express\u00f5es regulares e suas aplica\u00e7\u00f5es para reconhecimento de padr\u00f5es. Familiarizar-se com gram\u00e1ticas e sua desambigua\u00e7\u00e3o. Dominar os fundamentos te\u00f3ricos da constru\u00e7\u00e3o de compiladores.",
+    "referencias_basicas": [
+        "DAVIS, M. D.; WEYUKER, E. J. Computability, Complexity and Languages: Fundamentals of Theoretical Computer Science. 2. ed. Morgan Kaufmann, 1994.",
+        "HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introdu\u00e7\u00e3o \u00e0 Teoria dos Aut\u00f4matos, Linguagens e Computa\u00e7\u00e3o. 1. ed. Rio de Janeiro: Campus, 2002.",
+        "MENEZES, P. B. Linguagens Formais e Aut\u00f4matos. 5. ed. Porto Alegre: Bookman, 2008."
+    ],
+    "referencias_complementares": [
+        "AHO, A. V.; LAM, M. S.; SETHI, R.; ULLMAN, J. D. Compiladores: Princ\u00edpios, T\u00e9cnicas e Ferramentas. 1. ed. S\u00e3o Paulo: Pearson\/Prentice Hall, 2007.",
+        "DIVERIO, T. A.; MENEZES, P. B. Teoria da Computa\u00e7\u00e3o: M\u00e1quinas Universais e Computabilidade. 3. ed. Porto Alegre: Bookman, 2011.",
+        "SUDKAMP, T. A. Languages and Machines: An Introduction to the Theory of Computer Science. 3. ed. Addison Wesley, 2005."
+    ]
+}

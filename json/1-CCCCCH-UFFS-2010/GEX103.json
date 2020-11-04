@@ -1,0 +1,20 @@
+{
+    "codigo": "GEX103",
+    "creditos": 4,
+    "ementa": "An\u00e1lise de Requisitos. T\u00e9cnicas existentes para a extra\u00e7\u00e3o de requisitos. Modelos de Processosexistentes para o desenvolvimento de aplica\u00e7\u00f5es orientadas a objetos. O paradigmaorientado a objetos. T\u00e9cnicas de an\u00e1lise orientada a objetos. Utiliza\u00e7\u00e3o de uma ferramentade apoio para a elabora\u00e7\u00e3o dos modelos de an\u00e1lise.",
+    "horas": 60,
+    "nome": "ENGENHARIA DE SOFTWARE II",
+    "objetivo": "Analisar e projetar sistemas informatizados utilizando uma metodologia orientada a objetos.",
+    "referencias_basicas": [
+        "BOOCH, G.; RUMBAUGH, J.; JACOBSON, I. UML Guia do Usu\u00e1rio. Rio de Janeiro:Campus, 2006.",
+        "WAZLAWICK, R. S. An\u00e1lise e Projeto de Sistemas de Informa\u00e7\u00e3o Orientados a Objetos.Rio de Janeiro: Campus, 2004.",
+        "GUEDES, G. T. A. UML 2 \u2013 Uma Abordagem Pr\u00e1tica. S\u00e3o Paulo: Novatec, 2009.",
+        "RUMBAUGH, J.; BLAHA, M. Modelagem e Projetos Baseados em Objetos. Rio de Janeiro:Campus, 2004."
+    ],
+    "referencias_complementares": [
+        "SOMMERVILLE, I. Engenharia de Software. 8. ed. S\u00e3o Paulo: Addison - Wesley, 2008.",
+        "PRESSMAN, R. S. Engenharia de Software. 6. ed. S\u00e3o Paulo: Bookman Companhia Ed.,2006.",
+        "PFLEEGER, S. L. Engenharia de Software. 2. ed. S\u00e3o Paulo: Prentice-Hall, 2004.",
+        "LARMAN, C. Utilizando UML e Padr\u00f5es: uma Introdu\u00e7ao \u00e0An\u00e1lise e ao Projeto Orientadosa Objetos. 3. ed. S\u00e3o Paulo: Bokkman Companhia, 2007."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "creditos": 4,
+    "codigo": "GEX090",
+    "ementa": "Conceitos de banco de dados. Sistemas Gerenciadores de Banco de Dados (SGBDs). Modelos de dados. Modelagem conceitual e projeto de banco de dados. Modelo relacional: conceitos, restri\u00e7\u00f5es, linguagens de consulta (\u00e1lgebra relacional, c\u00e1lculo relacional, SQL), normaliza\u00e7\u00e3o.",
+    "horas": 60,
+    "nome": "BANCO DE DADOS I",
+    "objetivo": "Entender o funcionamento de banco de dados. Conhecer os modelos de dados. Projetar banco de dados relacional e manipular os dados armazenados.",
+    "referencias_basicas": [
+        "ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de banco de dados. 4. ed. S\u00e3o Paulo: Pearson Addison Wesley, 2005.",
+        "HEUSER, Carlos Alberto. Projeto de Banco de Dados. 6. ed. Porto Alegre: Bookman, 2009. (S\u00e9rie Livros Did\u00e1ticos \u2013 Instituto de Inform\u00e1tica da UFRGS, n. 4)",
+        "RAMAKRISHNAN, Raghu; GEHRKE, Johannes. Sistemas de gerenciamento de banco de dados. 3. ed. S\u00e3o Paulo: McGraw-Hill Medical, 2008.",
+        "SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistema de banco de dados. Rio de Janeiro: Elsevier, 2006."
+    ],
+    "referencias_complementares": [
+        "BATINI, C.; CERI, S.; NAVATHE, S. B. Conceptual Database Design: An Entity Relationship Approach. Benjamin Cummings, 1992.",
+        "GARCIA-MOLINA, Hector; ULLMAN, Jeffrey D.; WIDOM, Jennifer. Database systems: the complete book. 2. ed. New Jersey: Pearson Prentice-Hall, 2009.",
+        "MACHADO, Felipe Nery Rodrigues; ABREU, Maur\u00edcio Pereira de. Projeto de banco de dados: uma vis\u00e3o pr\u00e1tica. 15. ed. S\u00e3o Paulo: \u00c9rica, 2008.",
+        "GROFF, James R.; WEINBERG, Paul N. SQL: the complete reference. McGraw-Hill Osborne Media, 3rd Edition, 2009.",
+        "TEOREY, Toby; LIGHTSTONE, Sam; NADEAU, Tom. Projeto e Modelagem de Bancos de Dados. S\u00e3o Paulo: Campus, 2006.",
+        "ULLMAN, Jeffrey D.; WIDOM, Jennifer. A first course in database systems. 3. ed. S\u00e3o Paulo: Prentice Hall, 2008."
+    ]
+}

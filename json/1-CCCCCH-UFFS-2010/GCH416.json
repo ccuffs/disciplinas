@@ -1,0 +1,24 @@
+{
+    "codigo": "GCH416",
+    "creditos": 4,
+    "ementa": "Hist\u00f3rico, evolu\u00e7\u00e3o e tend\u00eancias. Instrumenta\u00e7\u00e3o computacional do ensino. Sistemas de tutoria.Sistemas de autoria. Ambientes de aprendizagem. Ensino \u00e0 dist\u00e2ncia.",
+    "horas": 60,
+    "nome": "INFORM\u00c1TICA NA EDUCA\u00c7\u00c3O",
+    "objetivo": "Analisar, selecionar e sistematizar recursos de inform\u00e1tica facilitadores e\/ou estimuladoresdo processo de constru\u00e7\u00e3o do conhecimento, reconhecendo as tecnologias de informa\u00e7\u00e3o ecomunica\u00e7\u00e3o como desencadeadores de novas estrat\u00e9gias de aprendizagem.",
+    "referencias_basicas": [
+        "OLIVEIRA, Ramon de. Inform\u00e1tica Educativa: dos planos e discursos \u00e0 sala de aula. 15.ed. Campinas: Papirus, 2009.",
+        "TEDESCO, Juan Carlos (Org.). Educa\u00e7\u00e3o e novas tecnologias: esperan\u00e7a ou incerteza?S\u00e3o Paulo: Cortez; Bras\u00edlia: UNESCO, 2004.",
+        "ALMEIDA, Maria; MORAN, Jos\u00e9. Integra\u00e7\u00e3o das tecnologias na educa\u00e7\u00e3o: Salto para ofuturo. Bras\u00edlia: MEC, 2005.",
+        "BELLONI, Maria Luiza. Educa\u00e7\u00e3o \u00e0 dist\u00e3ncia. Campinas: Autores Associados, 1999."
+    ],
+    "referencias_complementares": [
+        "RBIE -Revista Brasileira de Inform\u00e1tica na Educa\u00e7\u00e3o. ISSN 1414-5685. Dispon\u00edvel em:<www.sbc.org.br\/rbie>.REVISTA INFORM\u00c1TICA E EDUCA\u00c7\u00c3O: teoria e pr\u00e1tica. Dispon\u00edvel em: <http:\/\/revista.pgie.ufrgs.br\/>.RENOTE \u2013 Revista Novas Tecnologias na Educa\u00e7\u00e3o. ISSN 1679-1916. Dispon\u00edvel em:<http:\/\/www.cinted.ufrgs.br\/renote\/>.TAROUCO, Liane. Tecnologia digital na educa\u00e7\u00e3o. Porto Alegre: Editora Gr\u00e1fica daUFRGS, 2001.",
+        "ANTUNES, Celso. Novas maneiras de ensinar. Novas formas de aprender. Porto Alegre:Editora Artmed, 2002.",
+        "GASPARETTI, Marco. Computador na Educa\u00e7\u00e3o. S\u00e3o Paulo: Editora Esfera, 2001.",
+        "MORAES, Raquel de Almeida. Inform\u00e1tica na educa\u00e7\u00e3o. Rio de Janeiro: DP&A, 2000.",
+        "ALMEIDA, Fernando Jos\u00e9 de. Educa\u00e7\u00e3o e Inform\u00e1tica: os Computadores na Escola. S\u00e3oPaulo: Cortez, 1995.",
+        "VALENTE, Jose Armando. Computadores e conhecimento: repensando a educa\u00e7\u00e3o. 2. ed.Campinas-SP: UNICAMP\/NIED, 1998.",
+        "OLIVEIRA, Celina Couto de. Ambientes informatizados de aprendizagem: produ\u00e7\u00e3o eavalia\u00e7\u00e3o de software educativo. Campinas: Papirus, 2001.",
+        "VALENTE, J. A.; FREIRE, F. M. P. Aprendendo para a vida: os computadores na sala deaula. S\u00e3o Paulo: Cortez, 2001."
+    ]
+}

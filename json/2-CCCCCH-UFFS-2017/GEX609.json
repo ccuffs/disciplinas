@@ -1,0 +1,22 @@
+{
+    "creditos": 4,
+    "codigo": "GEX609",
+    "ementa": "M\u00e9todos de ordena\u00e7\u00e3o. Busca linear e bin\u00e1ria. Organiza\u00e7\u00e3o de arquivos. Persist\u00eancia de dados. Ordena\u00e7\u00e3o externa. \u00cdndices (\u00e1rvores B+ e hashing). Compacta\u00e7\u00e3o de dados. Implementa\u00e7\u00f5es com linguagem imperativa estruturada.",
+    "horas": 60,
+    "nome": "PESQUISA E ORDENA\u00c7\u00c3O DE DADOS",
+    "objetivo": "Utilizar estruturas de dados avan\u00e7adas para ordena\u00e7\u00e3o e pesquisa de informa\u00e7\u00f5es. Construir algoritmos para persistir dados e tratar dados persistidos. Analisar comparativamente os m\u00e9todos de ordena\u00e7\u00e3o quadr\u00e1ticos e os m\u00e9todos MergeSort, HeapSort e QuickSort.",
+    "referencias_basicas": [
+        "AZEREDO, P. M\u00e9todos de Classifica\u00e7\u00e3o de Dados e An\u00e1lise de suas Complexidades. Rio de Janeiro: Editora Campus, 1995.",
+        "CL\u00c9SIO, S.; AZEREDO, P. Tabelas: Organiza\u00e7\u00e3o e Pesquisa. Bookman, 2008. (S\u00e9rie Livros Did\u00e1ticos). ISBN-10: 8577802817.",
+        "CORMEN, T.; RIVEST, R.; STEIN, C.; LEISERSON, C. Algoritmos: Teoria e Pr\u00e1tica. Elsevier \u2013 Campus, 2012.",
+        "FERRAZ, I. N. Programa\u00e7\u00e3o com Arquivos. Barueri: Manole, 2002.",
+        "ZIVIANI, N. Projeto de Algoritmos com Implementa\u00e7\u00f5es Pascal e C. 2. ed. S\u00e3o Paulo: Thomson Pioneira, 2004."
+    ],
+    "referencias_complementares": [
+        "DASGUPTA, S.; PAPADIMITRIOU, C.; VAZIRANI, U. Algoritmos. 1. ed. McGraw-Hill Brasil, 2009.",
+        "EDELWEISS, N.; GALANTE, R. Estruturas de Dados. Porto Alegre: Bookman, 2009.",
+        "HOPCROFT, J.; AHO, A. V. Data Structures and Algorithms. Boston: Addison Wesley, 1983.",
+        "KNUTH, D. E. The Art of Computer Programming. Boston: Addison-Wesley, 2011. v. 1 a 4.",
+        "WIRTH, N. Algoritmos e Estruturas de Dados. Rio de Janeiro: LTC, 1989."
+    ]
+}

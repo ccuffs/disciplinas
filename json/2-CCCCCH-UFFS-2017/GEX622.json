@@ -1,0 +1,18 @@
+{
+    "creditos": 4,
+    "codigo": "GEX622",
+    "ementa": "Conceitos e aplica\u00e7\u00f5es de modelagem e simula\u00e7\u00e3o. Propriedades, classifica\u00e7\u00e3o e processo de projeto de modelos de simula\u00e7\u00e3o. Simula\u00e7\u00e3o discreta e cont\u00ednua. Escalonamento, probabilidade e variabilidade em modelos. Metodologias, t\u00e9cnicas e ferramentas para modelagem e simula\u00e7\u00e3o computacional. Verifica\u00e7\u00e3o e valida\u00e7\u00e3o de modelos. Simula\u00e7\u00e3o paralela e distribu\u00edda. Modelos heterog\u00eaneos e de sincroniza\u00e7\u00e3o h\u00edbrida. Arquiteturas e formalismos de simula\u00e7\u00e3o. Estudos de casos e tend\u00eancias em simula\u00e7\u00e3o computacional.",
+    "horas": 60,
+    "nome": "MODELAGEM E SIMULA\u00c7\u00c3O",
+    "objetivo": "Fornecer fundamentos te\u00f3ricos e pr\u00e1ticos para o desenvolvimento de mecanismos de suporte a simula\u00e7\u00e3o de sistemas e de modelos de simula\u00e7\u00e3o como ferramenta de apoio \u00e0 verifica\u00e7\u00e3o, valida\u00e7\u00e3o, constru\u00e7\u00e3o de sistemas reais, de treinamento, entre outras aplica\u00e7\u00f5es",
+    "referencias_basicas": [
+        "CHWIF, Leonardo; MEDINA, Afonso C. Modelagem e Simula\u00e7\u00e3o de Eventos Discretos. 2. ed. S\u00e3o Paulo: Dos Autores, 2007.",
+        "FREITAS FILHO, P. J. Introdu\u00e7\u00e3o \u00e0 Modelagem e Simula\u00e7\u00e3o de Sistemas com aplica\u00e7\u00f5es em arena. S\u00e3o Paulo: Visual Books, 2008.",
+        "FUJIMOTO, T. M. Parallel and distributed simulation. John Wiley, 2000."
+    ],
+    "referencias_complementares": [
+        "SEVERANCE, Frank L. System modeling and simulation: an introduction. Chichester; New York: J. Wiley, 2001",
+        "KOSTIN, Alexander; ILUSHECHKINA, Ljudmila. Modeling and simulation of distribuited systems. New Jersey: World Scientific, 2010. 419 p",
+        "HAMILTON, John A; NASH, David A; POOCH, Udo W. Distributed simulation. Boca Raton, Fla.: CRC Press, c1997. 390 p."
+    ]
+}

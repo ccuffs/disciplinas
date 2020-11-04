@@ -1,0 +1,20 @@
+{
+    "creditos": 4,
+    "codigo": "GEX438",
+    "ementa": "Princ\u00edpios, organiza\u00e7\u00e3o e m\u00e9todos de administra\u00e7\u00e3o de rede. Tecnologias para opera\u00e7\u00e3o e ger\u00eancia de rede. Recursos humanos para administra\u00e7\u00e3o de rede. Plataformas de ger\u00eancia de redes. Aplica\u00e7\u00f5es de ger\u00eancia de rede.",
+    "horas": 60,
+    "nome": "ADMINISTRA\u00c7\u00c3O E GER\u00caNCIA DE REDES",
+    "objetivo": "Compreender assuntos relativos \u00e0 teoria e pr\u00e1tica da administra\u00e7\u00e3o e ger\u00eancia de redes de computadores e telecomunica\u00e7\u00f5es, incluindo a defini\u00e7\u00e3o e implementa\u00e7\u00e3o de pol\u00edticas administrativas e a documenta\u00e7\u00e3o de recursos, servi\u00e7os, a\u00e7\u00f5es e procedimentos.",
+    "referencias_basicas": [
+        "COMER, Douglas E. Interliga\u00e7\u00e3o de redes com TCP\/IP. 5. ed. Rio de Janeiro: Campus, 2006. v. 1.",
+        "KUROSE, James F.; ROSS, Keith W. Redes de computadores e a Internet: uma abordagem top-down. 5. ed. S\u00e3o Paulo: Pearson Addison Wesley, 2010.",
+        "STALLINGS, William. SNMP, SNMPv2, SNMPv3 e RMON 1 RMON 2. 3. ed. Addison- Wesley, 1999."
+    ],
+    "referencias_complementares": [
+        "AIDAROUS, S.; PLEVYAK, T. Telecommunications Network Management Technologies and Implementations. IEEE Press, 1998.",
+        "BLACK, U. Network Management Standards. McGrawHill, 1995.",
+        "GHETIE, I. G. Networks and Systems Management. Norwell-MA: Kluwer Academic Publishers, 1997.",
+        "Network Management Forum.A Technical Strategy: Implementing TMN using OMNIPoint. Morristown-NJ: NMF, 1994.",
+        "ROSE, M. T.; McCLOGHRIE, K. How to Manage your Network Using SNMP: The Networking Management Practicum. Prentice-Hall, New Jersey,1995."
+    ]
+}

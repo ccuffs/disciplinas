@@ -1,0 +1,18 @@
+{
+    "creditos": 4,
+    "codigo": "GEX108",
+    "ementa": "Projeto de especifica\u00e7\u00e3o de linguagens de programa\u00e7\u00e3o. Etapas que compreendem o processo de compila\u00e7\u00e3o: an\u00e1lise l\u00e9xica, an\u00e1lise sint\u00e1tica, an\u00e1lise sem\u00e2ntica, gera\u00e7\u00e3o e otimiza\u00e7\u00e3o de c\u00f3digo. Evolu\u00e7\u00e3o e tend\u00eancias da \u00e1rea de compiladores e linguagens de programa\u00e7\u00e3o. Implementa\u00e7\u00e3o de analisadores.",
+    "horas": 60,
+    "nome": "CONSTRU\u00c7\u00c3O DE COMPILADORES",
+    "objetivo": "Compreender a estrutura de compiladores, o processo de compila\u00e7\u00e3o no reconhecimento de linguagens e a gera\u00e7\u00e3o\/otimiza\u00e7\u00e3o de c\u00f3digo. Construir analisadores l\u00e9xicos e sint\u00e1ticos.",
+    "referencias_basicas": [
+        "AHO, A. V.; LAM, M. S.; SETHI, R.; ULLMAN, J. D. Compiladores: Princ\u00edpios, T\u00e9cnicas e Ferramentas. 1. ed. S\u00e3o Paulo: Pearson\/Prentice Hall, 2007.",
+        "HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introdu\u00e7\u00e3o \u00c0 Teoria Dos Aut\u00f4matos, Linguagens E Computa\u00e7\u00e3o. 1. ed. Campus, 2002.",
+        "LOUDEN, K. C. Compiladores: Princ\u00edpios e Pr\u00e1ticas. 1. ed. Thomson Pioneira, 2004."
+    ],
+    "referencias_complementares": [
+        "FURTADO, O. J. V. Apostila de Linguagens Formais e Compiladores. UFSC, 2002. Dispon\u00edvel em: <www.inf.ufsc.br\/~olinto\/apostila-lfc.doc>.",
+        "DIVERIO, T. A.; MENEZES, P. B. Teoria da Computa\u00e7\u00e3o: M\u00e1quinas Universais e Computabilidade. 3. ed. Bookman, 2011.",
+        "SUDKAMP, T. A. Languages and Machines: An Introduction to the Theory of Computer Science. 3. ed. Addison Wesley, 2005."
+    ]
+}

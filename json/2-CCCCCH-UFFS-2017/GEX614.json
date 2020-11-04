@@ -1,0 +1,21 @@
+{
+    "creditos": 4,
+    "codigo": "GEX614",
+    "ementa": "Introdu\u00e7\u00e3o a modelos formais de computa\u00e7\u00e3o. M\u00e1quinas de Turing. Fun\u00e7\u00f5es Recursivas. Computabilidade. Decidibilidade. Classes de complexidade de problemas computacionais. Circuitos booleanos.",
+    "horas": 60,
+    "nome": "TEORIA DA COMPUTA\u00c7\u00c3O",
+    "objetivo": "Compreender a import\u00e2ncia da Teoria da Computa\u00e7\u00e3o para a pr\u00e1tica computacional atrav\u00e9s dos conceitos de Computabilidade, Decidibilidade, Complexidade e Tratabilidade. Desenvolver a criatividade e as habilidades de argumenta\u00e7\u00e3o matem\u00e1tica e formal para demonstra\u00e7\u00f5es em Teoria da Computa\u00e7\u00e3o. Entender o problema \u2018P versus NP\u2019. Dominar os principais problemas computacionais NP-Completos e o papel de cada um nas mais diversas \u00e1reas da Ci\u00eancia da Computa\u00e7\u00e3o.",
+    "referencias_basicas": [
+        "PAPADIMITRIOU, C. H. Computational Complexity. 1. ed. Addison Wesley, 1993.",
+        "HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introdu\u00e7\u00e3o \u00c0 Teoria Dos Aut\u00f4matos, Linguagens e Computa\u00e7\u00e3o. 1. ed. Campus, 2002.",
+        "SIEPSER, M. Introduction to the Theory of Computation. 3. ed. Course Technology, 2012.",
+        "DAVIS, M. D.; SIGAL, R.; WEYUKER, E. J. Computability, Complexity and Languages: Fundamentals of Theoretical Computer Science. 2. ed. Morgan Kaufmann, 1994.",
+        "CORMEN, T.; RIVEST, R.; STEIN, C.; LEISERSON, C. Algoritmos: Teoria e Pr\u00e1tica. Rio de Janeiro: Elsevier \u2013 Campus, 2012."
+    ],
+    "referencias_complementares": [
+        "CARNIELLI, W.; EPSTEIN, R. L. Computabilidade, Fun\u00e7\u00f5es Comput\u00e1veis, L\u00f3gica e os Fundamentos da Matem\u00e1tica. 2. ed. S\u00e3o Paulo: Unesp, 2009.",
+        "DIVERIO, T. A.; MENEZES, P. B. Teoria da Computa\u00e7\u00e3o: M\u00e1quinas Universais e Computabilidade. 3. ed. Porto Alegre: Bookman, 2011.",
+        "SUDKAMP, T. A. Languages and Machines: An Introduction to the Theory of Computer Science. 3. ed. Addison Wesley, 2005.",
+        "WOOD, D. Theory Of Computation. 1. ed. Longman Higher Education, 1986."
+    ]
+}

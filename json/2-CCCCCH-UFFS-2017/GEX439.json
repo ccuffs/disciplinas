@@ -1,0 +1,22 @@
+{
+    "creditos": 4,
+    "codigo": "GEX439",
+    "ementa": "Dispositivos e redes m\u00f3veis. Mobilidade de c\u00f3digo e agentes m\u00f3veis. Computa\u00e7\u00e3o n\u00f4made e computa\u00e7\u00e3o m\u00f3vel. Computa\u00e7\u00e3o pervasiva e ub\u00edqua. Arquitetura de software m\u00f3vel. Computa\u00e7\u00e3o ciente-de-contexto: adapta\u00e7\u00e3o din\u00e2mica, middlewares de reconhecimento de contexto, linguagens de descri\u00e7\u00e3o de contexto. Comunica\u00e7\u00e3o com IP M\u00f3vel. Redes ad hoc M\u00f3veis: protocolos em redes ad hoc m\u00f3veis. Sistemas Vol\u00e1teis. Servi\u00e7os de Descoberta de Servi\u00e7os. Seguran\u00e7a e Privacidade. Adapta\u00e7\u00e3o. Estudos de casos.",
+    "horas": 60,
+    "nome": "COMPUTA\u00c7\u00c3O M\u00d3VEL",
+    "objetivo": "Compreender e aplicar paradigmas e modelos da Computa\u00e7\u00e3o M\u00f3vel.",
+    "referencias_basicas": [
+        "ADELSTEIN, F. et al. Fundamentals of Mobile and Pervasive Computing. McGraw- Hill, 2005.",
+        "BIGUS, Joseph; BIGUS, Jennifer. Construcuting Intelligents Agents with Java. John Wiley, 1998.",
+        "COULOURIS, G. et al. Distributed Systems: Concepts and Design. 4. ed. Addison Wesley, 2005.",
+        "PITOURA, Evaggelia; SAMARAS, George. Data Management for Mobile Computing. Kluwer Academic Publishers, 1998.",
+        "SCHILLER, J. Mobile Communications. Addison Wesley, 2000.",
+        "WOOLDRIDGE, Michel. An Introduction to Multiagent Systems. John Wiley, 2002."
+    ],
+    "referencias_complementares": [
+        "BRENNER, Walter; ZARNEKOW, Rudiger; WITTIG, Harmut. Intelligent Software Agents: Foundations and Applications. Springer, 1998.",
+        "LANGE, Danny B.; OSHIMA, Mitsuru. Programming and Deploying Java Mobile Agents with Aglets. Addison Wesley, 1998.",
+        "MATEUS, Geraldo Robson; LOUREIRO, Antonio Alfredo F. Introdu\u00e7\u00e3o \u00e0 Computa\u00e7\u00e3o M\u00f3vel. 11\u00aa Escola de Computa\u00e7\u00e3o, COPPE\/Sistemas, NCE\/UFRJ, 1998.",
+        "SCHILLER, J.; VOISARD, A. Location-Based Services. Elsevier, 2004."
+    ]
+}

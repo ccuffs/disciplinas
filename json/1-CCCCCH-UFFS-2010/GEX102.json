@@ -1,0 +1,20 @@
+{
+    "codigo": "GEX102",
+    "creditos": 4,
+    "ementa": "Processo de desenvolvimento de software. Ciclo de vida de desenvolvimento de software. Qualidadede software. T\u00e9cnicas de planejamento e gerenciamento de software. Gerenciamento deconfigura\u00e7\u00e3o de software. Engenharia de requisitos. M\u00e9todos de an\u00e1lise e de projeto de software.Garantia de qualidade de software. Verifica\u00e7\u00e3o, valida\u00e7\u00e3o e teste. Manuten\u00e7\u00e3o. Documenta\u00e7\u00e3o.Padr\u00f5es de desenvolvimento. Reuso. Reengenharia. Ambientes de desenvolvimento desoftware.",
+    "horas": 60,
+    "nome": "ENGENHARIA DE SOFTWARE I",
+    "objetivo": "Compreender o processo de concep\u00e7\u00e3o, desenvolvimento, implementa\u00e7\u00e3o e manuten\u00e7\u00e3o deprodutos de software e os procedimentos, ferramentas e documentos relacionados a este processo.",
+    "referencias_basicas": [
+        "SOMMERVILLE, I. Engenharia de Software. 8. ed. S\u00e3o Paulo: Addison Wesley,2008.",
+        "PRESSMAN, R. S. Engenharia de Software. 6. ed. S\u00e3o Paulo: Bookman Companhia Ed.,2006.",
+        "PFLEEGER, S. L. Engenharia de Software. 2. ed. S\u00e3o Paulo: Prentice-Hall, 2004.",
+        "LARMAN, C. Agile And Iterative Development. S\u00e3o Paulo: Prentice-Hall, 2003."
+    ],
+    "referencias_complementares": [
+        "TONSIG, S. L. Engenharia de Software: An\u00e1lise e Projeto de Sistemas. S\u00e3o Paulo: Futura,2003.",
+        "CARVALHO, A. M. B. R.; CHIOSSI, T. C. dos S. Introdu\u00e7\u00e3o \u00e0 Engenharia de Software.S\u00e3o Paulo: UNICAMP, 2001.",
+        "RIOS, E. An\u00e1lise de Riscos em Projetos de Teste de Software. Rio de Janeiro: Alta Books,2005.",
+        "BASTOS, A. Base de Conhecimento em Teste de Software. S\u00e3o Paulo: Martins, 2007"
+    ]
+}

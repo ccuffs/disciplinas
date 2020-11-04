@@ -1,0 +1,22 @@
+{
+    "creditos": 4,
+    "codigo": "GEN253",
+    "ementa": "Fundamentos de Eletr\u00f4nica. Fam\u00edlias L\u00f3gicas. Simula\u00e7\u00e3o de Circuitos L\u00f3gicos. \u00c1lgebra de Boole. Circuitos Combinacionais: codificadores, multiplexadores e aritm\u00e9ticos. Circuitos Sequenciais: Latches, Flip-Flops e Registradores. Mem\u00f3rias.",
+    "horas": 60,
+    "nome": "CIRCUITOS DIGITAIS",
+    "objetivo": "Compreender os conceitos fundamentais da l\u00f3gica digital e o funcionamento de circuitos digitais b\u00e1sicos.",
+    "referencias_basicas": [
+        "HALLIDAY, Resnick; WALKER, Jearl. Fundamentos de F\u00edsica: Eletromagnetismo. Rio de Janeiro: LTC, 2011. v. 3.",
+        "HARRIS, David M.; HARRIS, Sarah L. Digital Design and Computer Architecture. Rio de Janeiro: Elsevier, 2007.",
+        "TOCCI, Ronald; WIDMER, Neal; MOSS, Gregory. Sistemas Digitais: princ\u00edpios e aplica\u00e7\u00f5es. 10. ed. S\u00e3o Paulo: Pearson, 2007."
+    ],
+    "referencias_complementares": [
+        "ERCEGOVAC, Milos; LANG, Tomas; MORENO, Jaime H. Introdu\u00e7\u00e3o aos Sistemas Digitais. Editora Bookman, 2000.",
+        "IDOETA, Ivan V.; CAPUANO, Francisco G. Elementos de Eletr\u00f4nica Digital. 37. ed. S\u00e3o Paulo: Livros \u00c9rica Editora Ltda, 2006.",
+        "LEACH, Donald P. Eletr\u00f4nica Digital no Laborat\u00f3rio. S\u00e3o Paulo: Makron Books do Brasil, 1993.",
+        "MELO, Mairton de Oliveira. Eletr\u00f4nica Digital. S\u00e3o Paulo: Makron Books, 1994.",
+        "TAUB, Herbert. Circuitos Digitais e Microprocessadores. S\u00e3o Paulo: McGraw-Hill, 1984.",
+        "TAULE, Herbert; SCHILLING, Donald. Eletr\u00f4nica Digital. S\u00e3o Paulo: McGraw-Hill, 1982.",
+        "WAGNER, F. R.; REIS, A. I.; RIBAS, R. P. Fundamentos De Circuitos Digitais. S\u00e3o Paulo: Bookman Companhia ED, 2008."
+    ]
+}

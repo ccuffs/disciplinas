@@ -1,0 +1,22 @@
+{
+    "creditos": 4,
+    "codigo": "GCS320",
+    "ementa": "A inform\u00e1tica como \u00e1rea de neg\u00f3cios: an\u00e1lise dos diversos setores de mercado, suas caracter\u00edsticas e tend\u00eancias. O empreendimento e o empreendedor. T\u00e9cnicas de negocia\u00e7\u00e3o. Desenvolvimento organizacional. Qualidade total. Planejamento de empreendimentos em Inform\u00e1tica.",
+    "horas": 60,
+    "nome": "EMPREENDEDORISMO",
+    "objetivo": "Desenvolver o esp\u00edrito empreendedor na \u00e1rea da tecnologia da informa\u00e7\u00e3o.",
+    "referencias_basicas": [
+        "CHIAVENATO, I. Empreendedorismo: dando asas ao esp\u00edrito empreendedor. 3. ed. S\u00e3o Paulo: Saraiva, 2008.",
+        "FERRARI, R. Empreendedorismo para Computa\u00e7\u00e3o. Rio de Janeiro: Campus, 2009.",
+        "PETERS, M. P.; HISRICH, R. D.; SHEPHERD, D. A. Empreendedorismo. 7. ed. S\u00e3o Paulo: Bookman, 2009.",
+        "SILVA, N.; SALIM, C. S. Introdu\u00e7\u00e3o ao Empreendedorismo. Rio de Janeiro: Campus, 2009.",
+        "TOLEDO, M. Plano de Neg\u00f3cios para Startups. 1. ed. eBook dispon\u00edvel exclusivamente em forma digital em: <http:\/\/marcelotoledo.com\/startup>."
+    ],
+    "referencias_complementares": [
+        "ALMEIDA, F. Como ser empreendedor de sucesso. Belo Horizonte: Leitura Empresarial, 2001.",
+        "AYAN, J. As 10 maneiras de libertar seu esp\u00edrito criativo e encontrar grandes id\u00e9ias. S\u00e3o Paulo: Neg\u00f3cio Editora, 2001.",
+        "COZZI, A.; JUDICE, V.; DOLABELA, F. Empreendedorismo de Base Tecnol\u00f3gica: Spin-Off - cria\u00e7\u00e3o de novos neg\u00f3cios. Rio de Janeiro: CAMPUS, 2007.",
+        "DORNELAS, J. C. A. Empreendedorismo: Transformando id\u00e9ias em neg\u00f3cio. Rio de Janeiro: Campus, 2001.",
+        "PETERSON, Steven D. Planejamento Estrat\u00e9gico \u2013 S\u00e9rie para Dummies. Rio de Janeiro: Campus \/ Elsevier, 1999. ISBN 8535203621."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "creditos": 4,
+    "codigo": "GCS318",
+    "ementa": "\u00c9tica pessoal, profissional e p\u00fablica na \u00e1rea da inform\u00e1tica. Dilemas \u00e9ticos do profissional da inform\u00e1tica: privacidade, v\u00edrus, hacking, uso da Internet, direitos autorais, etc. Desemprego e informatiza\u00e7\u00e3o. Responsabilidade social. O profissional e o mercado de trabalho. Trabalho e rela\u00e7\u00f5es humanas. O empreendedorismo como op\u00e7\u00e3o do profissional da inform\u00e1tica. Legisla\u00e7\u00e3o: pol\u00edtica nacional e tend\u00eancias atuais referentes \u00e0 regulamenta\u00e7\u00e3o da profiss\u00e3o.",
+    "horas": 60,
+    "nome": "INFORM\u00c1TICA E SOCIEDADE",
+    "objetivo": "Desenvolver a consci\u00eancia cr\u00edtica com respeito \u00e0 forma\u00e7\u00e3o tecnol\u00f3gica e a atua\u00e7\u00e3o social, al\u00e9m de refletir criticamente sobre a \u00e9tica, o uso da tecnologia e a atua\u00e7\u00e3o profissional",
+    "referencias_basicas": [
+        "BARGER, Robert N. \u00c9tica Na Computa\u00e7\u00e3o \u2013 Uma Abordagem Baseada Em Casos. Rio de Janeiro: LTC, 2010.",
+        "CHAVES, Antonio. Direitos Autorais na Computa\u00e7\u00e3o de Dados. Rio de Janeiro: LTC, 1996.",
+        "GANDELMAN, H. De Gutemberg a Internet: direitos autorais das origens \u00e0 era digital. 5. ed. S\u00e3o Paulo: Record, 2010.",
+        "LEMOS, Andr\u00e9. Cibercultura, tecnologia e vida social na cultura contempor\u00e2nea. Porto Alegre: Sulina, 2002.",
+        "PAESANI, Liliana Minardi. Direito de Inform\u00e1tica \u2013 Comercializa\u00e7\u00e3o e Desenvolvimento Internacional do Software. 8. ed. S\u00e3o Paulo: Atlas, 2012."
+    ],
+    "referencias_complementares": [
+        "BRASIL. Lei 7232\/22.10.84 \u2013 Pol\u00edtica Nacional de Inform\u00e1tica (Alterada por 8028\/90, 8248\/92, 8402\/92, 2123\/01, 9959\/00, 10176\/01, 10664\/03). Di\u00e1rio Oficial da Uni\u00e3o, Bras\u00edlia, Se\u00e7\u00e3o 1, P\u00e1gina 15841, 30\/10\/1984.",
+        "BRASIL. Lei n. 10.973, de 2 de dezembro de 2004. Di\u00e1rio Oficial da Uni\u00e3o, Bras\u00edlia, 03 dez. 2004.",
+        "ROVER, A. J. Direito, Sociedade e Inform\u00e1tica. Rio de Janeiro: FUNDA\u00c7AO BOITEUX, 2000.",
+        "RUBEN, G. Inform\u00e1tica, Organiza\u00e7\u00f5es e Sociedade no Brasil. S\u00e3o Paulo: Cortez, 2003.",
+        "VALLS, A. L. M. O que \u00e9 \u00e9tica. 9. ed. S\u00e3o Paulo: Brasiliense, 1994."
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "codigo": "GEX001",
+    "creditos": 4,
+    "ementa": "No\u00e7\u00f5es de l\u00f3gica. No\u00e7\u00f5es de conjuntos. Rela\u00e7\u00f5es. Fun\u00e7\u00f5es. Trigonometria. Matrizes eSistemas Lineares. No\u00e7\u00f5es de Matem\u00e1tica Financeira. Sistemas de medidas. Geometria Planae Espacial.",
+    "horas": 60,
+    "nome": "MATEM\u00c1TICA INSTRUMENTAL",
+    "objetivo": "Utilizar conceitos e procedimentos em situa\u00e7\u00f5es-problema para analisar dados, elaborar modelos,resolver problemas e interpretar suas solu\u00e7\u00f5es; sintetizar, criticar, deduzir, construir hip\u00f3teses,estabelecer rela\u00e7\u00f5es e compara\u00e7\u00f5es, detectar contradi\u00e7\u00f5es, decidir, organizar, expressar-se e argumentar com clareza, coer\u00eancia e coes\u00e3o.",
+    "referencias_basicas": [
+        "BATSCHELET, E. Introdu\u00e7\u00e3o \u00e0 Matem\u00e1tica para Biocientistas. S\u00e3o Paulo: Interci\u00eancia eEDUSP, 1978.",
+        "IEZZI, G.; MURAKAMI, C. et al. Fundamentos de matem\u00e1tica elementar. 7. ed. S\u00e3oPaulo: Atual, 1999. 11 v.LEITHOLD, L. O. C\u00e1lculo com Geometria Anal\u00edtica. S\u00e3o Paulo: Editora HARBRA, 1994.v. 1.LIMA, Elon Lages; CARVALHO, P. C. P.; WAGNER, E. et al. A matem\u00e1tica do ensinom\u00e9dio. 5. ed. Rio de Janeiro: SBM. 2001. 3 v."
+    ],
+    "referencias_complementares": [
+        "BASSANEZI, R. C. Ensino-aprendizagem com modelagem matem\u00e1tica. S\u00e3o Paulo:Contexto, 2004.",
+        "CARVALHO, Paulo C\u00e9sar Pinto. Introdu\u00e7\u00e3o \u00e0 geometria espacial. Rio de Janeiro: SBM,1993.",
+        "EVES, H. Introdu\u00e7\u00e3o \u00e0 hist\u00f3ria da matem\u00e1tica. 3. ed. Campinas: Unicamp, 2002.",
+        "HEFEZ, Abramo. Elementos de Aritm\u00e9tica. Textos Universit\u00e1rios. Rio de Janeiro: IMPA,2005.",
+        "LIMA, Elon Lages. Medida e forma em geometria. Rio de Janeiro: SBM, 2009.",
+        "MILIES, Francisco C\u00e9sar Polcino; COELHO, S\u00f4nia Pitta. N\u00fameros: uma introdu\u00e7\u00e3o \u00e0matem\u00e1tica. S\u00e3o Paulo: EDUSP, 2003.",
+        "MOREIRA, Pl\u00ednio; DAVID, Maria Manuela. A forma\u00e7\u00e3o matem\u00e1tica do professor,licenciatura e pr\u00e1tica docente escolar. Belo Horizonte: Aut\u00eantica, 2005.NEWTON-SMITH, W. H. L\u00f3gica: um curso introdut\u00f3rio. Lisboa: Editora Gradiva, 1998.",
+        "SCHLIEMANN, Ana L\u00facia; CARRAHER, David. Na vida dez, na escola zero. 10. ed. S\u00e3oPaulo: Cortez editora, 1995.S\u00c9RATES, J. Racioc\u00ednio l\u00f3gico: l\u00f3gico matem\u00e1tico, l\u00f3gico quantitativo, l\u00f3gico num\u00e9rico,l\u00f3gico anal\u00edtico, l\u00f3gico cr\u00edtico. 5. ed. Bras\u00edlia: Gr\u00e1fica e Editora Ol\u00edmpica Ltda, 1997.",
+        "WAGNER, Eduardo. Constru\u00e7\u00f5es geom\u00e9tricas. Rio de Janeiro: SBM, 2001."
+    ]
+}

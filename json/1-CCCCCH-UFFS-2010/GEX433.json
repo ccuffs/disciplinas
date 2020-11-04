@@ -1,0 +1,19 @@
+{
+    "codigo": "GEX433",
+    "creditos": 4,
+    "ementa": "Modelagem de sistemas. Modelos anal\u00edticos e Modelos de simula\u00e7\u00e3o. Processos estoc\u00e1sticos.Introdu\u00e7\u00e3o \u00e0 teoria das filas. Redes de filas. Gera\u00e7\u00e3o de n\u00fameros pseudo-aleat\u00f3rios.Gera\u00e7\u00e3o de vari\u00e1veis aleat\u00f3rias. Metodologia de projetos de modelagem e simula\u00e7\u00e3o de sistemas.Modelos voltados \u00e0 simula\u00e7\u00e3o: defini\u00e7\u00e3o, taxonomia e desenvolvimento. Valida\u00e7\u00e3ode modelos de simula\u00e7\u00e3o. Praticas de modelagem e simula\u00e7\u00e3o. Linguagens de simula\u00e7\u00e3o.Estudo de casos.",
+    "horas": 60,
+    "nome": "MODELAGEM E SIMULA\u00c7\u00c3O",
+    "objetivo": "Fornecer fundamentos te\u00f3ricos e pr\u00e1ticos para o desenvolvimento de mecanismos de suportea simula\u00e7\u00e3o de sistemas e de modelos de simula\u00e7\u00e3o como ferramenta de apoio \u00e0 verifica\u00e7\u00e3o,valida\u00e7\u00e3o, constru\u00e7\u00e3o de sistemas reais, de treinamento, entre outras aplica\u00e7\u00f5es",
+    "referencias_basicas": [
+        "FREITAS Filho, P. J. Introdu\u00e7\u00e3o \u00e0 Modelagem e Simula\u00e7\u00e3o de Sistemas com aplica\u00e7\u00f5esem arena. S\u00e3o Paulo: Ed. Visual Books, 2008.",
+        "CHWIF, Leonardo; MEDINA, Afonso C. Modelagem e Simula\u00e7\u00e3o de Eventos Discretos.2. ed. S\u00e3o Paulo: Ed. Dos Autores, 2007.",
+        "FUJIMOTO, T. M. Parallel and distributed simulation. Ed. John Wiley, 2000.",
+        "SOUZA, A. C. Z. de; PINHEIRO, C. A. M. Introdu\u00e7\u00e3o a Modelagem, An\u00e1lise e Simula\u00e7\u00e3ode Sistemas Din\u00e2micos. S\u00e3o Paulo: INTERCIENCIA, 2008."
+    ],
+    "referencias_complementares": [
+        "PROFOZICH, David. Managing Changing with BPS. Prendice-Hall, 1997.KELTON et al. Simulation with Arena. McGraw-Hill, 1998.",
+        "LAW, A. M.; KELTON, W. D. Simulation Modeling and Analisys. McGraw-Hill, 1991.",
+        "BANKS, J.; CARSON, J. Discrete-Event System Simulation. Prendice-Hall, 1996."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "codigo": "GEX016",
+    "creditos": 4,
+    "ementa": "Circuitos Aritm\u00e9ticos. Registradores. Contadores. Mem\u00f3rias. M\u00e1quinas de Estado. Organiza\u00e7\u00e3ode microprocessadores: arquitetura \u2013 assembly. No\u00e7\u00f5es de Linguagem de Descri\u00e7\u00e3ode Hardware.",
+    "horas": 60,
+    "nome": "SISTEMAS DIGITAIS",
+    "objetivo": "Compreender os conceitos e funcionamento de circuitos digitais utilizados em computa\u00e7\u00e3o,atrav\u00e9s da apresenta\u00e7\u00e3o de t\u00e9cnicas de projeto e simula\u00e7\u00e3o e implementa\u00e7\u00e3o usando lingua-gens de descri\u00e7\u00e3o de hardware e tecnologias de prototipa\u00e7\u00e3o",
+    "referencias_basicas": [
+        "TOCCI, Ronald; WIDMER, Neal; MOSS, Gregory. Sistemas Digitais: princ\u00edpios e aplica\u00e7\u00f5es.10. ed. S\u00e3o Paulo: Pearson Editora, 2007.",
+        "TAUB, Herbert. Circuitos Digitais e Microprocessadores. S\u00e3o Paulo: McGraw-Hill,1984.",
+        "MELO, Mairton de Oliveira. Eletr\u00f4nica Digital. S\u00e3o Paulo: Makron Books, 1994.",
+        "OSBORNE, Adam. Microprocessadores -Circuitos B\u00e1sicos. S\u00e3o Paulo: McGraw-Hill,1983.",
+        "TOKHEIN, Roger. Introdu\u00e7\u00e3o aos Microprocessadores. S\u00e3o Paulo: McGraw-Hill, 1985.",
+        "ASHENDEN, Peter J. The Students guide to VHDL. Morgan Kaufmann, 2008."
+    ],
+    "referencias_complementares": [
+        "TAUB, Herbert; SCHILLING, Donald. Eletr\u00f4nica Digital. S\u00e3o Paulo: McGraw-Hill, 1982.",
+        "IDOETA, Ivan V.; CAPUANO, Francisco G. Elementos de Eletr\u00f4nica Digital. 37. ed. S\u00e3oPaulo: Livros \u00c9rica Editora Ltda, 2006."
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "creditos": 4,
+    "codigo": "GEX003",
+    "ementa": "Conceito e constru\u00e7\u00e3o de algoritmos. Tipos b\u00e1sicos de dados. Comandos de atribui\u00e7\u00e3o, condicionais e de repeti\u00e7\u00e3o. Registros\/estruturas. Vetores e Matrizes. Strings. Modulariza\u00e7\u00e3o. Opera\u00e7\u00f5es b\u00e1sicas em arquivos. Recurs\u00e3o. Ponteiros.",
+    "horas": 60,
+    "nome": "ALGORITMOS E PROGRAMA\u00c7\u00c3O",
+    "objetivo": "Desenvolver o racioc\u00ednio l\u00f3gico para o desenvolvimento de algoritmos. Compreender como o computador executa programas. Desenvolver algoritmos utilizando os conceitos aprendidos. Implementar algoritmos cl\u00e1ssicos, como algoritmo de Euclides, crivo de Erat\u00f3stenes e exponencia\u00e7\u00e3o bin\u00e1ria.",
+    "referencias_basicas": [
+        "LOPES, A.; GARCIA, G. Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o. Rio de Janeiro: Campus, 2002.",
+        "VILARIM, G. Algoritmos: Programa\u00e7\u00e3o para Iniciantes. Rio de Janeiro: Ci\u00eancia Moderna, 2004.",
+        "FORBELLONE, A.; EBERSPACHER, H. L\u00f3gica de Programa\u00e7\u00e3o: A Constru\u00e7\u00e3o de Algoritmos e Estruturas de Dados. Pearson, 2005. ISBN-10: 8576050242.",
+        "MANZANO, J.; OLIVEIRA, J. Algoritmos: L\u00f3gica para Desenvolvimento de Programa\u00e7\u00e3o de Computadores. 22. ed. S\u00e3o Paulo: \u00c9rica, 2009."
+    ],
+    "referencias_complementares": [
+        "KERNIGHAN, B.; RITCHIE, D. C. A Linguagem de programa\u00e7\u00e3o padr\u00e3o ANSI. Editora Campus, 1990.",
+        "SCHILDT, Herbert. C completo e total. S\u00e3o Paulo: Makron Books, 1997.",
+        "LOPES, A.; GARCIA, G. Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o: 500 algoritmos resolvidos. Rio de Janeiro: Campus, 2002.",
+        "ARA\u00daJO, E. C. Algoritmos: Fundamentos e Pr\u00e1tica. 2. ed. Florian\u00f3polis: Visual Books, 2005.",
+        "BORATTI, I. C. Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o: Algoritmos. 2. ed. Florian\u00f3polis: Visual Books, 2004"
+    ]
+}

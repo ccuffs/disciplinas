@@ -1,0 +1,19 @@
+{
+    "creditos": 4,
+    "codigo": "GEX106",
+    "ementa": "Arquitetura de Sistemas Distribu\u00eddos. Paradigmas de Computa\u00e7\u00e3o Distribu\u00edda: Troca de Mensagens, Cliente\/Servidor, Comunica\u00e7\u00e3o em Grupo, Objetos Distribu\u00eddos. Comunica\u00e7\u00e3o entre Processos Distribu\u00eddos. Suporte de SO para Computa\u00e7\u00e3o Distribu\u00edda. Concorr\u00eancia e Sincroniza\u00e7\u00e3o em Sistemas Distribu\u00eddos. Consist\u00eancia e Replica\u00e7\u00e3o de Dados em Sistemas Distribu\u00eddos. Sistemas de Arquivo Distribu\u00eddos. Computa\u00e7\u00e3o em grade (grid computing). Arquiteturas e modelos de programa\u00e7\u00e3o paralela.",
+    "horas": 60,
+    "nome": "COMPUTA\u00c7\u00c3O DISTRIBU\u00cdDA",
+    "objetivo": "Projetar e desenvolver sistemas computacionais de natureza distribu\u00edda.",
+    "referencias_basicas": [
+        "COULOURIS, George F; DOLLIMORE, Jean; KINDBERG, Tim. Sistemas distribu\u00eddos: conceitos e projeto. Porto Alegre: Bookman, 2007. 784 p.",
+        "LIU, M. L. Distributed Computing: Principles and Applications. Pearson Addison Wesley, 2004.",
+        "TANEMBAUM, A.; STEEN, M. Sistemas distribu\u00eddos: princ\u00edpios e paradigmas. 2. ed. S\u00e3o Paulo: Pearson, 2008."
+    ],
+    "referencias_complementares": [
+        "TEIXEIRA JUNIOR, J. H. Do Mainframe para a Computa\u00e7\u00e3o Distribu\u00edda. Rio de Janeiro: IBPI PRESS, 1997.",
+        "RICCIONI, P. R. Introdu\u00e7\u00e3o a Objetos Distribu\u00eddos com CORBA. Florian\u00f3polis: Visual Books, 2000.",
+        "POTTS, Stephen. Aprenda em 24 Horas Web Services. Rio de Janeiro: Campus, 2003.",
+        "STEVENS, W. R.; FENNER, B.; RUDOFF, A. M. Programa\u00e7\u00e3o de Rede UNIX. API para sockets de rede. 3. ed. Porto Alegre: Artmed, 2005."
+    ]
+}

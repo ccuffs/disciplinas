@@ -1,0 +1,31 @@
+{
+    "creditos": 4,
+    "codigo": "GEX392",
+    "ementa": "Algumas t\u00e9cnicas de integra\u00e7\u00e3o e aplica\u00e7\u00f5es da integral. Fun\u00e7\u00f5es de v\u00e1rias vari\u00e1veis. Limite e continuidade de fun\u00e7\u00f5es de v\u00e1rias vari\u00e1veis. Derivadas parciais e aplica\u00e7\u00f5es. Gradiente. Diferenciabilidade. Multiplicadores de Lagrange. Integrais m\u00faltiplas.",
+    "horas": 60,
+    "nome": "C\u00c1LCULO II",
+    "objetivo": "Estudar mais algumas t\u00e9cnicas de integra\u00e7\u00e3o de uma fun\u00e7\u00e3o de uma vari\u00e1vel e aplic\u00e1-las na resolu\u00e7\u00e3o de problemas. Introduzir as principais ferramentas do c\u00e1lculo diferencial e integral de fun\u00e7\u00f5es de v\u00e1rias vari\u00e1veis, abordando suas aplica\u00e7\u00f5es.",
+    "referencias_basicas": [
+        "FLEMMING, D. M.; GON\u00c7ALVES, M. B. C\u00e1lculo A: fun\u00e7\u00f5es, limite, deriva\u00e7\u00e3o e integra\u00e7\u00e3o. 6. ed. S\u00e3o Paulo: Makron Books, 2007.",
+        "______. C\u00e1lculo B: fun\u00e7\u00f5es de v\u00e1rias vari\u00e1veis, integrais m\u00faltiplas, integrais curvil\u00edneas e de superf\u00edcie. 6. ed. S\u00e3o Paulo: Makron Books, 2007.",
+        "GUIDORIZZI, H. L. Um curso de c\u00e1lculo. 5. ed. Rio de Janeiro: LTC, 2001. v. 2 e 3.",
+        "LEITHOLD, L. O c\u00e1lculo com geometria anal\u00edtica. 3. ed. S\u00e3o Paulo: Harbra, 1994. 1 v.",
+        "______.O c\u00e1lculo com geometria anal\u00edtica. 3. ed. S\u00e3o Paulo: Harbra, 1994. 2 v.",
+        "STEWART, J. C\u00e1lculo. 6. ed. S\u00e3o Paulo: Cengage Learning, 2010. 1 v.",
+        "______.C\u00e1lculo. 6. ed. S\u00e3o Paulo: Cengage Learning, 2010. 2 v.",
+        "THOMAS, G. B. C\u00e1lculo. 11. ed. S\u00e3o Paulo: Addison Wesley, 2008. 1 v.",
+        "______.C\u00e1lculo. 11. ed. S\u00e3o Paulo: Addison Wesley, 2008. 2 v."
+    ],
+    "referencias_complementares": [
+        "ANTON, H.; BIVENS, I.; DAVIS, S. C\u00e1lculo. 8. ed. S\u00e3o Paulo: Bookman, 2007. v. 2.",
+        "______. C\u00e1lculo. 8. ed. S\u00e3o Paulo: Bookman, 2007. v. 1.",
+        "APOSTOL, T. M. Calculus: one-variable calculus, with an introduction to linear algebra. 2. ed. New York: John Wiley & Sons, 1967. v. 1.",
+        "______. Calculus: one-variable calculus, with an introduction to linear algebra. 2. ed. New York: John Wiley & Sons, 1967. v. 2.",
+        "LARSON, R.; HOSTETLER, R. P.; EDWARDS, B. H. C\u00e1lculo. 8. ed. S\u00e3o Paulo: McGraw Hill, 2006. 1 v.",
+        "______. C\u00e1lculo. 8 ed. S\u00e3o Paulo: McGraw Hill, 2006. 2 v.",
+        "SALAS, H. E. C\u00e1lculo. 9. ed. Rio de Janeiro: LTC, 2005. 1 v.",
+        "______. C\u00e1lculo. 9. ed. Rio de Janeiro: LTC, 2005. 2 v.",
+        "SIMMONS, G. F. C\u00e1lculo com geometria anal\u00edtica. S\u00e3o Paulo: McGraw Hill, 1987. 1 v.",
+        "______. C\u00e1lculo com geometria anal\u00edtica. S\u00e3o Paulo: McGraw Hill, 1987. 2 v."
+    ]
+}

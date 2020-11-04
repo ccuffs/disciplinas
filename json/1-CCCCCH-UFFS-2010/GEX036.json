@@ -1,0 +1,20 @@
+{
+    "codigo": "GEX036",
+    "creditos": 4,
+    "ementa": "Erros computacionais e aproxima\u00e7\u00e3o num\u00e9rica. C\u00e1lculo de ra\u00edzes de fun\u00e7\u00f5es reais.Resolu\u00e7\u00e3o de sistemas lineares: m\u00e9todos diretos e iterativos. Interpola\u00e7\u00e3o polinomial.Ajuste de curvas: quadrados m\u00ednimos lineares. Diferencia\u00e7\u00e3o e integra\u00e7\u00e3o num\u00e9rica.Tratamento num\u00e9rico de equa\u00e7\u00f5es diferenciais ordin\u00e1rias.",
+    "horas": 60,
+    "nome": "C\u00c1LCULO NUM\u00c9RICO",
+    "objetivo": "Abordar a resolu\u00e7\u00e3o n\u00e3o alg\u00e9brica de problemas matem\u00e1ticos por meio de m\u00e9todosnum\u00e9ricos, fazendo uso de ferramentas do c\u00e1lculo diferencial e integral e da \u00e1lgebra linear.",
+    "referencias_basicas": [
+        "RUGGIERO, M. A. G.; LOPES, V. L. R. C\u00e1lculo num\u00e9rico \u2013 aspectos te\u00f3ricos ecomputacionais. 2. ed. S\u00e3o Paulo: Makron Books, 1996.",
+        "HUMES, A. F. P. C. et al. No\u00e7\u00f5es de c\u00e1lculo num\u00e9rico. S\u00e3o Paulo: McGraw Hill, 1984.",
+        "BARROSO, L. C. et al. C\u00e1lculo num\u00e9rico (com aplica\u00e7\u00f5es). S\u00e3o Paulo: Harbra, 1987.",
+        "FRANCO, N. M. B. C\u00e1lculo num\u00e9rico. S\u00e3o Paulo: Prentice Hall, 2007."
+    ],
+    "referencias_complementares": [
+        "BURIAN, R.; LIMA, A. C. Fundamentos de inform\u00e1tica \u2013 c\u00e1lculo num\u00e9rico. Rio deJaneiro: LTC, 2007.",
+        "ROQUE, W. L. Introdu\u00e7\u00e3o ao c\u00e1lculo num\u00e9rico. S\u00e3o Paulo: Atlas, 2000.CL\u00c1UDIO, D. M.; MARINS, J. M. C\u00e1lculo num\u00e9rico computacional \u2013 teoria e pr\u00e1tica.S\u00e3o Paulo: Atlas, 1989.",
+        "WATKINS, D. S. Fundamentals of matrix computations. New York: John Wiley andSons, 1991.",
+        "MEYER, C. D. Matrix analysis and applied linear algebra. New York: SIAM, 2000."
+    ]
+}

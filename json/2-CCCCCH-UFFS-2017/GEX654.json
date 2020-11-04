@@ -1,0 +1,20 @@
+{
+    "creditos": 4,
+    "codigo": "GEX654",
+    "ementa": "Algoritmos de Monte Carlo e de Las Vegas. Algoritmos probabil\u00edsticos para os problemas de satisfatibilidade MAX SAT e MAX 3-SAT. Quicksort aleatorizado. M\u00e1quinas de Turing probabil\u00edsticas. Classes computacionais probabil\u00edsticas. Passeios aleat\u00f3rios em grafos. Algoritmos distribu\u00eddos aleatorizados. Testes de primalidade aleatorizados.",
+    "horas": 60,
+    "nome": "COMPUTA\u00c7\u00c3O ALEATORIZADA",
+    "objetivo": "Estudar os principais algoritmos aleatorizados cl\u00e1ssicos e dominar a fundamenta\u00e7\u00e3o te\u00f3rica da Computa\u00e7\u00e3o Aleatorizada. Observar o papel pr\u00e1tico da aleatoriedade na Computa\u00e7\u00e3o enquanto estrat\u00e9gia de projeto de algoritmos mais eficientes e de solu\u00e7\u00f5es para problemas ainda intrat\u00e1veis deterministicamente. Compreender a import\u00e2ncia das classes de complexidade probabil\u00edsticas para as mais importantes quest\u00f5es da Teoria da Computa\u00e7\u00e3o.",
+    "referencias_basicas": [
+        "ALON, N.; SPENCER, J. H. The Probabilistic Method. 3. ed. Wiley-Interscience, 2008.",
+        "CHAZELLE, B. The Discrepancy Method: Randomness and Complexity. 1. ed. Cambridge University Press, 2002.",
+        "MITZENMACHER, M.; UPFAL, E. Probability and Computing: Randomized Algorithms and Probabilistic Analysis. 1. ed. Cambridge University Press, 2005."
+    ],
+    "referencias_complementares": [
+        "CORMEN, T. H. e al. Algoritmos: Teoria e Pr\u00e1tica. 3. ed. Elsevier, 2012.",
+        "FELLER, W. An Introduction To Probability Theory And Its Applications. 3. ed. Wiley, 1968.",
+        "HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introdu\u00e7\u00e3o \u00c0 Teoria Dos Aut\u00f4matos, Linguagens E Computa\u00e7\u00e3o. 1. ed. Rio de Janeiro: Campus, 2002.",
+        "KLEINBERG, J.; TARDOS, E. Algorithm Design. 1. ed. Addison Wesley, 2005.",
+        "PAPADIMITRIOU, C. H. Computational Complexity. 1. ed. Addison Wesley, 2003."
+    ]
+}

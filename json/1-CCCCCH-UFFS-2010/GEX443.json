@@ -1,0 +1,20 @@
+{
+    "codigo": "GEX443",
+    "creditos": 4,
+    "ementa": "Fundamentos de l\u00f3gica reconfigur\u00e1vel. Estudo de dispositivos l\u00f3gicos program\u00e1veis. Estudoda linguagem VHDL para programa\u00e7\u00e3o de dispositivos l\u00f3gicos. Estudo de ferramentasde EDA para desenvolvimento automatizado de projetos e simula\u00e7\u00f5es de circuitos l\u00f3gicosreconfigur\u00e1veis. Estudo dos kits de desenvolvimento utilizando CPLDs e FPGAs. Desenvolvimentode projetos de circuitos l\u00f3gicos combinacionais. Desenvolvimento de projetosde circuitos l\u00f3gicos seq\u00fcenciais. Desenvolvimento de projetos utilizando a t\u00e9cnica dem\u00e1quinas de estados.",
+    "horas": 60,
+    "nome": "LINGUAGEM DE DESCRI\u00c7\u00c3O DE HARDWARE",
+    "objetivo": "Conhecer o fluxo de projeto digital e desenvolver a capacidade de implementar projetos digitaisusando HDL e dispositivos de l\u00f3gica program\u00e1vel.",
+    "referencias_basicas": [
+        "AMORE, Roberto d'. VHDL: descri\u00e7\u00e3o e s\u00edntese de circuitos digitais. Rio de Janeiro: LTC,2005.",
+        "ARMSTRONG, James R. VHDL design representation and synthesis. 2. ed. Upper SaddleRiver: Prentice Hall PTR, 2000.",
+        "ASHENDEN, Peter J. The designer's guide to VHDL. 2. ed. San Francisco: MorganKaufmann Publishers, 2002.",
+        "YALAMANCHILI, Sudhakar. Introductory VHDL: from simulation to synthesis. UpperSaddle River: Prentice Hall, 2001."
+    ],
+    "referencias_complementares": [
+        "SCARPINO, Frank A. VHDL and AHDL digital system implementation. Upper SaddleRiver: Prentice Hall PTR, 1998.",
+        "SKAHILL, Kevin. VHDL for programmable logic. Reading: Addison Wesley, 1996.",
+        "YALAMANCHILI, Sudhakar. VHDL starter's guide. Upper Saddle River: Prentice Hall,1998.",
+        "BROWN, S.; VRANESIC, D.; ZVONKO, G. Fundamentals of digital logic with VHDLdesign. Boston: McGraw-Hill, 2000."
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "creditos": 4,
+    "codigo": "GEX441",
+    "ementa": "Modelagem. Modelos lineares determin\u00edsticos cont\u00ednuos: revis\u00e3o de \u00e1lgebra linear, programa\u00e7\u00e3o linear, simplex e sensibilidade. Modelos determin\u00edsticos lineares discretos: problemas simples em redes, programa\u00e7\u00e3o linear inteira, cortes e branch-and-bound. Processos de decis\u00e3o sequencial: programa\u00e7\u00e3o din\u00e2mica e heur\u00edstica. Cadeias de Markov: estabilidade e otimalidade, aplica\u00e7\u00e3o a filas elementares.",
+    "horas": 60,
+    "nome": "PESQUISA OPERACIONAL",
+    "objetivo": "Aplicar m\u00e9todos matem\u00e1ticos de otimiza\u00e7\u00e3o a modelos de decis\u00e3o.",
+    "referencias_basicas": [
+        "BAZARAA, M. S.; JARVIS, J. J.; SHERALI, M. D. Linear programming and network flows. 2. ed. New York: Wiley, 1990. 1 v.",
+        "COLIN, Emerson Carlos. Pesquisa Operacional: 170 aplica\u00e7\u00f5es em estrat\u00e9gia, finan\u00e7as, log\u00edstica, produ\u00e7\u00e3o, marketing e vendas. Rio de Janeiro: LTC, 2007.",
+        "GOLDBARG, M. C.; LUNA, Henrique Pacca L. Otimiza\u00e7\u00e3o combinat\u00f3ria e programa\u00e7\u00e3o linear: modelos e algoritmos. Rio de Janeiro: Campus, 2002.",
+        "HEIN, N.; LOESCH, C. Pesquisa Operacional: fundamentos e modelos. S\u00e3o Paulo: Saraiva, 2009.",
+        "MOREIRA, D. A. Pesquisa Operacional: curso introdut\u00f3rio. S\u00e3o Paulo: Thomson Learning, 2007.",
+        "WAGNER, H. M. Pesquisa Operacional. 2. ed. Rio de Janeiro: Prentice Hall do Brasil, 1986."
+    ],
+    "referencias_complementares": [
+        "ANDRADE, E. L. Introdu\u00e7\u00e3o \u00e0 Pesquisa Operacional: m\u00e9todos e t\u00e9cnicas de an\u00e1lise de decis\u00e3o. Rio de Janeiro: LTC \u2013 Livros T\u00e9cnicos e Cient\u00edficos, 2004.",
+        "ANDRADE, Edgard; FURST, Patricia; RODRIGUES, Paulo C. Parga. Elementos de programa\u00e7\u00e3o linear. Rio de Janeiro: Universidade Rural, 1998. 168 p.",
+        "BUENO, Fabr\u00edcio. Otimiza\u00e7\u00e3o Gerencial com Excel. Florian\u00f3polis: Visualbooks, 2007.",
+        "CAIXETA FILHO, J. V. Material de Apoio \u00e0s Disciplinas: Introdu\u00e7\u00e3o \u00e0 Pesquisa Operacional Programa\u00e7\u00e3o Linear. Piracicaba: Esalq, 1996. (S\u00e9rie Did\u00e1tica n.113).",
+        "CORRAR, L. J.; THEOPHILO, C. R. Pesquisa Operacional para Decis\u00e3o em Contabilidade e Administra\u00e7\u00e3o. S\u00e3o Paulo: Editora Atlas, 2004.",
+        "FANG, S.; PUTHENPURA, Sarat. Linear optimization and extensions: theory and algorithms. At & T. New Jersey: Prentice Hall, 1993. 1 v.",
+        "HILLIER, F.; LIEBERMAN, Gerald J. Introduction to mathematical programming. 2. ed. Singapore: MCGraw-Hill, 1995. 1 v.",
+        "LACHTERMACHER, G. Pesquisa Operacional na Tomada de Decis\u00f5es. Modelagem em Excel. Rio de Janeiro: Campus, 2006.",
+        "PRADO, D. S. PERT\/CPM. Belo Horizonte: Desenvolvimento Gerencial, 1998. 148 p. v. 4. (S\u00e9rie Ger\u00eancia de Projetos).",
+        "____________. Programa\u00e7\u00e3o Linear. Belo Horizonte: Desenvolvimento Gerencial, 2003. v. 1. (S\u00e9rie Pesquisa Operacional).",
+        "WINSTON, W. L. Operations Research: Applications and Algorithms. 3. ed. Duxbury Press, 1994."
+    ]
+}

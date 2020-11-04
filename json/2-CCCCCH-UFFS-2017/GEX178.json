@@ -1,0 +1,23 @@
+{
+    "creditos": 4,
+    "codigo": "GEX178",
+    "ementa": "Limite e continuidade de fun\u00e7\u00f5es de uma vari\u00e1vel real. Derivadas. Aplica\u00e7\u00f5es da derivada. Integrais definidas e indefinidas. Teorema fundamental do C\u00e1lculo. C\u00e1lculo de \u00e1reas. Aplica\u00e7\u00f5es da integral.",
+    "horas": 60,
+    "nome": "C\u00c1LCULO I",
+    "objetivo": "Introduzir as principais ferramentas do c\u00e1lculo diferencial e integral de fun\u00e7\u00f5es de uma vari\u00e1vel, abordando suas aplica\u00e7\u00f5es.",
+    "referencias_basicas": [
+        "FLEMMING, D. M.; GON\u00c7ALVES, M. B. C\u00e1lculo A: fun\u00e7\u00f5es, limite, deriva\u00e7\u00e3o e integra\u00e7\u00e3o. 6. ed. S\u00e3o Paulo: Prentice Hall, 2007.",
+        "GUIDORIZZI, H. L. Um curso de c\u00e1lculo. 5. ed. Rio de Janeiro: LTC, 2001. 1 v.",
+        "LEITHOLD, L. C\u00e1lculo com geometria anal\u00edtica. 3. ed. S\u00e3o Paulo: Harbra, 1994. 1 v.",
+        "STEWART, J. C\u00e1lculo. 6. ed. S\u00e3o Paulo: Cengage Learning, 2010. 1 v.",
+        "THOMAS, G. B. C\u00e1lculo. 11. ed. S\u00e3o Paulo: Addison Wesley, 2008. 1 v."
+    ],
+    "referencias_complementares": [
+        "ANTON, H.; BIVENS, I.; DAVIS, S. C\u00e1lculo. 8. ed. S\u00e3o Paulo: Bookman, 2007. 1 v.",
+        "APOSTOL, T. M. Calculus: one-variable calculus, with an introduction to linear algebra. 2. ed. New York: John Wiley & Sons, 1967. 1 v.",
+        "LARSON, R.; HOSTETLER, R. P.; EDWARDS, B. H. C\u00e1lculo. 8. ed. S\u00e3o Paulo: McGraw Hill, 2006. 1 v.",
+        "SALAS, H. E. C\u00e1lculo. 9. ed. Rio de Janeiro: LTC, 2005. 1 v.",
+        "SIMMONS, G. F. C\u00e1lculo com geometria anal\u00edtica. S\u00e3o Paulo: McGraw Hill, 1987. 1 v.",
+        "T\u00c1BOAS, P. Z. C\u00e1lculo em uma vari\u00e1vel real. S\u00e3o Paulo: Edusp, 2003."
+    ]
+}

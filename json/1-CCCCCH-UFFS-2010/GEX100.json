@@ -1,0 +1,20 @@
+{
+    "codigo": "GEX100",
+    "creditos": 4,
+    "ementa": "Tend\u00eancias tecnol\u00f3gicas na fabrica\u00e7\u00e3o de CPUs e mem\u00f3rias. CPU: instru\u00e7\u00f5es e modos deendere\u00e7amento. Formatos de instru\u00e7\u00f5es e linguagem de montagem. Simulador e montador.Datapath e unidade de controle. Alternativas de implementa\u00e7\u00e3o (monociclo, multiciclo, pipeline,superescalar). Exce\u00e7\u00f5es e interrup\u00e7\u00f5es. Conflitos estruturais, de dados e de controle.Hierarquia de mem\u00f3ria e associatividade (cache e TLB). Dispositivos de entrada e sa\u00edda: tipos,caracter\u00edsticas e sua conex\u00e3o \u00e0 CPU e \u00e0 mem\u00f3ria. Comunica\u00e7\u00e3o com a CPU (polling,interrup\u00e7\u00e3o, DMA).",
+    "horas": 60,
+    "nome": "ORGANIZA\u00c7\u00c3O DE COMPUTADORES",
+    "objetivo": "Conhecer os principais conceitos envolvidos na concep\u00e7\u00e3o da arquitetura e organiza\u00e7\u00e3o doscomputadores, sabendo caracterizar e entender o funcionamento interno de um computador,dada uma certa arquitetura, reconhecendo o impacto de cada alternativa sobre fatores comodesempenho e custo.",
+    "referencias_basicas": [
+        "PATTERSON, David A.; HENNESSY, John L. Organiza\u00e7\u00e3o e Projeto de Computadores.Rio de Janeiro: Elsevier, 2005.",
+        "STALLINGS, William. Arquitetura e Organiza\u00e7\u00e3o de Computadores: projeto para o desempenho.5. ed. S\u00e3o Paulo: Prentice Hall, 2005.",
+        "TANENBAUM, Andrew S. Organiza\u00e7\u00e3o Estruturada de Computadores. 5. ed. Rio de Janeiro:Prentice-Hall do Brasil, 2006."
+    ],
+    "referencias_complementares": [
+        "MURDOCCA, Miles J. Introdu\u00e7\u00e3o \u00e0 Arquitetura de Computadores. Rio de Janeiro:Campus, 2001.",
+        "HENNESSY, John L. Arquitetura de Computadores: uma abordagem quantitativa. Rio deJaneiro: Campus, 2003.",
+        "MANO, M. Computer System Architecture. Englewood Cliffs-NJ: Prentice-Hall International,1993.",
+        "HEURING, Vincent P. Computer Systems Design and Architecture. 2. ed. Upper SaddleRiver-NJ: Pearson Prentice Hall, 2004.",
+        "HARRIS, David Money. Digital Design and Computer Architecture. Amsterdam: Elsevier,2007."
+    ]
+}

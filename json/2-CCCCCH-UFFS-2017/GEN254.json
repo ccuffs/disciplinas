@@ -1,0 +1,21 @@
+{
+    "creditos": 4,
+    "codigo": "GEN254",
+    "ementa": "Defini\u00e7\u00f5es b\u00e1sicas de Teoria dos Grafos: vizinhan\u00e7a, isomorfismo, subgrafo, clique e conjunto independente. Representa\u00e7\u00e3o computacional de grafos. Modelagem de problemas com grafos. Grafos bipartidos e cortes. Caminhos, ciclos, di\u00e2metro e cintura. Conexidade e alcan\u00e7abilidade. Grafos biconexos e articula\u00e7\u00f5es. Grafos dirigidos e caminho m\u00ednimo. Busca. \u00c1rvores e \u00e1rvores geradoras de custo m\u00ednimo. Grafos eulerianos e hamiltonianos. Estabilidade e emparelhamento. Fluxo. Colora\u00e7\u00e3o e Planaridade. Problemas da Cobertura e da Travessia.",
+    "horas": 60,
+    "nome": "GRAFOS",
+    "objetivo": "Compreender os conceitos b\u00e1sicos em Teoria dos Grafos. Modelar problemas e situa\u00e7\u00f5es diversas com grafos. Desenvolver a criatividade e as habilidades formais de demonstra\u00e7\u00e3o atrav\u00e9s de exerc\u00edcios sobre grafos e aplica\u00e7\u00f5es. Dominar os problemas e algoritmos em Teoria dos Grafos, seus fundamentos te\u00f3ricos e sua import\u00e2ncia para a Computa\u00e7\u00e3o e outras disciplinas do Conhecimento.",
+    "referencias_basicas": [
+        "BOLLOB\u00c1S, B. Modern Graph Theory. 1. ed. Springer, 1998.",
+        "DIESTEL, R. Graph Teory. 4. ed. Springer, 2010.",
+        "NETTO, P. O. B. Grafos: Teoria, Modelos e Algoritmos. 4. ed. S\u00e3o Paulo: Blucher, 2006.",
+        "NICOLETTI, M. do C.; HRUSCHKA Jr., E. R. Fundamentos da Teoria dos Grafos para Computa\u00e7\u00e3o. 1. ed. S\u00e3o Carlos-SP: Ufscar, 2006."
+    ],
+    "referencias_complementares": [
+        "BONDY, J. A.; MURTY, U. S. R. Graph theory. 1. ed. Springer, 2008.",
+        "FEOFILOFF, P.; KOHAYAKAWA, Y.; WAKABAYASHI, Y. Teoria dos Grafos: Uma Introdu\u00e7\u00e3o Sucinta. 2011. Dispon\u00edvel apenas eletronicamente em:",
+        "<http:\/\/www.ime.usp.br\/~pf\/teoriadosgrafos\/>.",
+        "LOV\u00c1SZ, L. Combinatorial Problems And Exercices. 2. ed. American Mathematical Society, 2007.",
+        "WILSON, R. J. Introduction to Graph Theory. 5. ed. S\u00e3o Paulo: Prentice Hall, 2010."
+    ]
+}

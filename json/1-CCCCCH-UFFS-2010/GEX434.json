@@ -1,0 +1,25 @@
+{
+    "codigo": "GEX434",
+    "creditos": 4,
+    "ementa": "Defini\u00e7\u00e3o de sistemas multim\u00eddia e problem\u00e1tica envolvida. Representa\u00e7\u00e3o digital de \u00e1udio,imagens e v\u00eddeos. T\u00e9cnicas e padr\u00f5es de compress\u00e3o. Aplica\u00e7\u00f5es multim\u00eddia: caracteriza\u00e7\u00e3oe requisitos. Protocolos de transporte de m\u00eddia e de controle-sinaliza\u00e7\u00e3o. Qualidade deServi\u00e7o.",
+    "horas": 60,
+    "nome": "SISTEMAS MULTIM\u00cdDIA",
+    "objetivo": "Conhecer as \u00e1reas, tecnologias e metodologias de desenvolvimento de sistemas multim\u00eddia.",
+    "referencias_basicas": [
+        "VAUGHAN, T. Multimedia Making it Work. McGraw-Hill, 2001.",
+        "ENGLAND, E.; FINNEY, A.; FINNEY, A. Managing Multimedia. Addison Wesley,1996.PAULA FILHO, W. de P. Multim\u00eddia: Conceitos e Aplica\u00e7\u00f5es. Rio de Janeiro: LTC Editora,2000.",
+        "DAN, A.; SITARA, D. Multimedia Servers: Applications, Environments, and Design(Multimedia Information and Systems). Morgan Kaufmman, 1999.",
+        "KUO, Franklin F. Multimedia Communications: Protocols & Applications. Prentice Hall,1997.",
+        "HALSALL, F. Multimedia Communications: Applications, Networks, Protocols, andStandards. Addison-Wesley Publishing, 2000."
+    ],
+    "referencias_complementares": [
+        "BUFORD, J. F. K. Multimedia Systems. Addison Wesley, 1994.",
+        "STOLFI, G. Compress\u00e3o de Imagens, JPEG, PEE647 \u2013 Princ\u00edpios de Televis\u00e3o Digital.2002.",
+        "VELHO, L. Computa\u00e7\u00e3o Gr\u00e1fica e Processamento de Imagens. McGrawHill, 1996.",
+        "KRISTOF, R.; SATRAN, A. Interactivity by Design: Creating & Communicating WithNew Media. Hayden Books, 1995.",
+        "FLUCKIGER, F. Understanding Networked Multimedia: Applications and Technology.Prentice Hall, 1995.",
+        "KUO, F.; EFFELSBERG, W.; GARCIA-LUNA-ACEVES, J. J. Multimedia Communications:Protocols and Applications. Prentice Hall PTR, 1998.",
+        "AGNEW, P. W.; KELLERMAN, A. S. Distributed Multimedia: Technologies, Applications,and Opportunities in the Digital Information Industry. A Guide for Users and Providers.Addison Wesley, 1996.",
+        "ROESLER, V. Perspectivas em Transmiss\u00e3o Multim\u00eddia e TV Digital. Instituto de Inform\u00e1tica,Universidade Federal do Rio Grande do Sul (UFRGS), 2007."
+    ]
+}

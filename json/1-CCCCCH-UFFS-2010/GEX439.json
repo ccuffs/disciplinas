@@ -1,0 +1,21 @@
+{
+    "codigo": "GEX439",
+    "creditos": 4,
+    "ementa": "Dispositivos e redes m\u00f3veis. Mobilidade de c\u00f3digo e agentes m\u00f3veis. Computa\u00e7\u00e3o n\u00f4madee computa\u00e7\u00e3o m\u00f3vel. Computa\u00e7\u00e3o pervasiva e ub\u00edqua. Arquitetura de software m\u00f3vel.Computa\u00e7\u00e3o ciente-de-contexto: adapta\u00e7\u00e3o din\u00e2mica, middlewares de reconhecimento decontexto, linguagens de descri\u00e7\u00e3o de contexto. Comunica\u00e7\u00e3o com IP M\u00f3vel. Redes Ad HocM\u00f3veis: protocolos em redes ad hoc m\u00f3veis. Sistemas Vol\u00e1teis. Servi\u00e7os de Descoberta deServi\u00e7os. Seguran\u00e7a e Privacidade. Adapta\u00e7\u00e3o. Estudos de casos.",
+    "horas": 60,
+    "nome": "COMPUTA\u00c7\u00c3O M\u00d3VEL",
+    "objetivo": "Compreender e aplicar paradigmas e modelos da Computa\u00e7\u00e3o M\u00f3vel.",
+    "referencias_basicas": [
+        "SCHILLER, J. Mobile Communications. Addison Wesley, 2000.",
+        "COULOURIS, G. et al. Distributed Systems: Concepts and Design. 4. ed. Addison Wesley,2005.",
+        "BIGUS, Joseph; BIGUS, Jennifer. Construcuting Intelligents Agents with Java. JohnWiley, 1998.",
+        "WOOLDRIDGE, Michel. An Introduction to Multiagent Systems. John Wiley, 2002.",
+        "ADELSTEIN, F. et al. Fundamentals of Mobile and Pervasive Computing. McGraw-Hill, 2005.",
+        "PITOURA, Evaggelia; SAMARAS, George. Data Management for Mobile Computing.Kluwer Academic Publishers, 1998."
+    ],
+    "referencias_complementares": [
+        "LANGE, Danny B.; OSHIMA, Mitsuru. Programming and Deploying Java MobileAgents with Aglets. Addison Wesley, 1998.",
+        "BRENNER, Walter; ZARNEKOW, Rudiger; WITTIG, Harmut. Intelligent SoftwareAgents: Foundations and Applications. Springer, 1998.",
+        "SCHILLER, J.; VOISARD, A. Location-Based Services. Elsevier, 2004.Artigos dispon\u00edveis em:<http:\/\/www.wirelessbrasil.org\/wirelessbr\/colaboradores\/a_corbioli\/ip_movel_01.html>.<http:\/\/www.gta.ufrj.br\/grad\/00_1\/bruno\/index.htm>.<http:\/\/www.dimap.ufrn.br\/~gold\/protocolos.html>.MATEUS, Geraldo Robson; LOUREIRO, Antonio Alfredo F. Introdu\u00e7\u00e3o \u00e0 Computa\u00e7\u00e3oM\u00f3vel. 11. Escola de Computa\u00e7\u00e3o, COPPE\/Sistemas, NCE\/UFRJ, 1998."
+    ]
+}

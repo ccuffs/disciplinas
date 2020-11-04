@@ -1,0 +1,25 @@
+{
+    "creditos": 4,
+    "codigo": "GEX607",
+    "ementa": "Matrizes. Determinantes. Sistemas de equa\u00e7\u00f5es lineares. Espa\u00e7os vetoriais. Transforma\u00e7\u00f5es lineares. Espa\u00e7os com produto interno. Autovalores e autovetores. Diagonaliza\u00e7\u00e3o.",
+    "horas": 60,
+    "nome": "\u00c1LGEBRA LINEAR",
+    "objetivo": "Resolver sistemas de equa\u00e7\u00f5es lineares utilizando opera\u00e7\u00f5es elementares. Calcular a inversa de matrizes usando opera\u00e7\u00f5es elementares. Compreender os conceitos de transforma\u00e7\u00e3o linear, autovalor, autovetor e ter contato com aplica\u00e7\u00f5es da \u00c1lgebra Linear em problemas reais.",
+    "referencias_basicas": [
+        "ANTON, H.; RORRES, C. \u00c1lgebra linear com aplica\u00e7\u00f5es. 8. ed. Porto Alegre: Bookman, 2001.",
+        "BOLDRINI, J. L. et al. \u00c1lgebra linear. 3. ed. S\u00e3o Paulo: HARBRA, 1986.",
+        "LEON, S. J. \u00c1lgebra linear com aplica\u00e7\u00f5es. 4. ed. Rio de Janeiro: LTC, 1999.",
+        "POOLE, D. \u00c1lgebra Linear. S\u00e3o Paulo: Pioneira Thomson Learning, 2004."
+    ],
+    "referencias_complementares": [
+        "CALLIOLI, C.; DOMINGUES, H.; COSTA, R. \u00c1lgebra linear e aplica\u00e7\u00f5es. 6. ed. S\u00e3o Paulo: Atual, 2006.",
+        "COELHO, F.; LOUREN\u00c7O, M. Um curso de \u00e1lgebra linear. S\u00e3o Paulo: EDUSP, 2002.",
+        "DUNN, F.; PARBERRY, I. 3D Math Primer for Graphics and Game Development. 2. ed. A K Peters\/CRC Press, 2011. ISBN-10: 1568817231.",
+        "KOLMAN, B.; HILL, D. R. Introdu\u00e7\u00e3o \u00e0 \u00e1lgebra linear com aplica\u00e7\u00f5es. Rio de Janeiro: LTC, 2006.",
+        "LENGYEL, E. Mathematics for 3D game programming and computer graphics. 3. ed. Course Technology PTR, 2011. ISBN-10: 1435458869.",
+        "LIPSCHUTZ, S. \u00c1lgebra Linear: teoria e problemas. 3. ed. S\u00e3o Paulo: Makron Books, 1994.",
+        "SANTOS, R. J. Geometria anal\u00edtica e \u00e1lgebra linear. Dispon\u00edvel em: <http:\/\/www.mat.ufmg.br\/~regi>. Acesso em: 22 nov. 2011.",
+        "STEINBRUCH, A.; WINTERLE, P. \u00c1lgebra linear. S\u00e3o Paulo: McGraw-Hill, 1987.",
+        "VERTH, J.; BISHOP, L. Essential Mathematics for Games and Interactive Applications: A Programmer's Guide. 2. ed. Morgan Kaufmann, 2008. ISBN-10: 0123742978."
+    ]
+}

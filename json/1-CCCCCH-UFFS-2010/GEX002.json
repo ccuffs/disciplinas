@@ -1,0 +1,25 @@
+{
+    "codigo": "GEX002",
+    "creditos": 4,
+    "ementa": "Fundamentos de inform\u00e1tica. Conhecimentos de sistemas operacionais. Utiliza\u00e7\u00e3o da redemundial de computadores. Acesso a ambientes virtuais de aprendizagem. Conhecimentosde editor de texto, planilha eletr\u00f4nica e software de apresenta\u00e7\u00e3o (textos, gr\u00e1ficos, tabelas,\u00e1udios, v\u00eddeos e imagens).",
+    "horas": 60,
+    "nome": "INTRODU\u00c7\u00c3O \u00c0 INFORM\u00c1TICA",
+    "objetivo": "Operar as ferramentas b\u00e1sicas de inform\u00e1tica de forma a poder utiliz\u00e1-lasinterdisciplinarmente, de modo cr\u00edtico, criativo e pr\u00f3-ativo.",
+    "referencias_basicas": [
+        "CAPRON, H. L; JOHNSON, J. A. Introdu\u00e7\u00e3o \u00e0 Inform\u00e1tica. 8. ed. S\u00e3o Paulo: PearsonPrentice Hall, 2004.",
+        "NORTON, P. Introdu\u00e7\u00e3o \u00e0 Inform\u00e1tica. 1. ed. Rio de Janeiro: Makron Books, 1997.",
+        "VELLOSO, Fernando de C. Inform\u00e1tica: conceitos b\u00e1sicos. 7. ed. Rio de Janeiro: Campus,2004.",
+        "ANTONIO, Jo\u00e3o. Inform\u00e1tica para Concursos: teoria e quest\u00f5es. Rio de Janeiro:Campus-Elsevier, 2009."
+    ],
+    "referencias_complementares": [
+        "FEDELI, Ricardo D.; POLLONI, Enrico G. P.; PERES, Fernando E. Introdu\u00e7\u00e3o \u00e0 ci\u00eanciada computa\u00e7\u00e3o. 2. ed. S\u00e3o Paulo: CENGAGE Learning, 2010.",
+        "HILL, Benjamin Mako; BACON, Jono. O livro oficial do Ubuntu. 2. ed. Porto Alegre:Bookman, 2008.",
+        "LANCHARRO, Eduardo Alcalde; LOPEZ, Miguel Garcia; FERNANDEZ, SalvadorPe\u00f1uelas. Inform\u00e1tica b\u00e1sica. S\u00e3o Paulo: Pearson Makron Books, 2004.",
+        "MANZANO, Andr\u00e9 Luiz N. G.; TAKA, Carlos Eduardo M. Estudo dirigido de MicrosoftWindows 7 Ultimate. S\u00e3o Paulo: \u00c9rica, 2010.",
+        "MANZANO, A. L. N. G.; MANZANO, M. I. N. G. Estudo dirigido de inform\u00e1ticab\u00e1sica. 7. ed. rev. atual. e ampl. S\u00e3o Paulo: \u00c9rica, 2007.",
+        "MEYER, M.; BABER, R.; PFAFFENBERGER, B. Nosso futuro e o computador. PortoAlegre: Bookman, 1999.",
+        "MONTEIRO, M. A. Introdu\u00e7\u00e3o \u00e0 organiza\u00e7\u00e3o de computadores. 5. ed. Rio de Janeiro:LTC, 2007.",
+        "OLIVEIRA, Ramon de. Inform\u00e1tica educativa. 12. ed. Campinas: Papirus, 2007.",
+        "SCHECHTER, Renato. BROffice Calc e Writer: trabalhe com planilhas e textos emsoftware livre. Rio de Janeiro: Elsevier, 2003."
+    ]
+}

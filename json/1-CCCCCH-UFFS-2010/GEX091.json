@@ -1,0 +1,17 @@
+{
+    "codigo": "GEX091",
+    "creditos": 4,
+    "ementa": "Armazenamento f\u00edsico. Estruturas de indexa\u00e7\u00e3o. Processamento e otimiza\u00e7\u00e3o de consultas.Processamento de transa\u00e7\u00f5es. Controle de concorr\u00eancia. Recupera\u00e7\u00e3o ap\u00f3s falhas.",
+    "horas": 60,
+    "nome": "BANCO DE DADOS II",
+    "objetivo": "Entender como os sistemas gerenciadores de banco de dados relacionais (SGBDR) armazenamfisicamente os dados para acesso. Compreender os componentes dos SGBDR.",
+    "referencias_basicas": [
+        "SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistema de banco dedados. Rio de Janeiro: Elsevier, 2006.",
+        "ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de banco de dados. 4. ed. S\u00e3oPaulo: Pearson Addison Wesley, 2005.",
+        "RAMAKRISHNAN, Raghu; GEHRKE, Johannes. Sistemas de gerenciamento de bancode dados. 3. ed. S\u00e3o Paulo: McGraw-Hill Medical, 2008."
+    ],
+    "referencias_complementares": [
+        "DATE, C. J. Introdu\u00e7\u00e3o a Sistemas de Bancos de Dados. 8. ed. Rio de Janeiro: Campus,2004.GARCIA-MOLINA, Hector; ULLMAN, Jeffrey D.; WIDOM, Jennifer. Implementa\u00e7\u00e3o desistemas de banco de dados. Rio de Janeiro: Campus, 2001.GARCIA-MOLINA, Hector; ULLMAN, Jeffrey D.; WIDOM, Jennifer. Database Systems:the complete book. 2. ed. Prentice Hall, 2009.",
+        "ATZENI, Paolo; CERI, Stefano, PARABOSCHI, Stefano; TORLONE, Riccardo. DatabaseSystems Concepts, Languages and Architetures. McGraw-Hill, 1999."
+    ]
+}

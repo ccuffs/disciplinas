@@ -1,0 +1,30 @@
+{
+    "creditos": 4,
+    "codigo": "GEX210",
+    "ementa": "No\u00e7\u00f5es b\u00e1sicas de Estat\u00edstica. S\u00e9ries e gr\u00e1ficos estat\u00edsticos. Distribui\u00e7\u00f5es de frequ\u00eancias. Medidas de tend\u00eancia central. Medidas de dispers\u00e3o. Medidas separatrizes. An\u00e1lise de Assimetria. No\u00e7\u00f5es de probabilidade e infer\u00eancia.",
+    "horas": 60,
+    "nome": "ESTAT\u00cdSTICA B\u00c1SICA",
+    "objetivo": "Utilizar ferramentas da estat\u00edstica descritiva para interpretar, analisar e sintetizar dados estat\u00edsticos com vistas \u00e0 compreens\u00e3o de contextos diversos.",
+    "referencias_basicas": [
+        "BARBETTA, P. A. Estat\u00edstica aplicada \u00e0s Ci\u00eancias Sociais. 7. ed. Florian\u00f3polis: UFSC, 2007.",
+        "BUSSAB, Wilton de Oliveira; MORETTIN, Pedro Alberto. Estat\u00edstica B\u00e1sica. 7. ed. rev. S\u00e3o Paulo: Saraiva, 2011.",
+        "CRESPO, A. A. Estat\u00edstica F\u00e1cil. 19. ed. S\u00e3o Paulo: Saraiva, 2009.",
+        "FONSECA, Jairo Simon da; MARTINS, Gilberto de Andrade. Curso de Estat\u00edstica. 6. ed. 12. reimpr. S\u00e3o Paulo: Atlas, 2009.",
+        "SILVA, E. M. et al. Estat\u00edstica para os cursos de: Economia, Administra\u00e7\u00e3o e Ci\u00eancias Cont\u00e1beis. 4. ed. S\u00e3o Paulo: Atlas, 2010.",
+        "TOLEDO, G. L.; OVALLE, I. I. Estat\u00edstica B\u00e1sica. 2. ed. S\u00e3o Paulo: Atlas, 1985."
+    ],
+    "referencias_complementares": [
+        "BORNIA, Antonio Cezar; REIS, Marcelo Menezes; BARBETTA, Pedro Alberto. Estat\u00edstica para cursos de engenharia e inform\u00e1tica. 3. ed. S\u00e3o Paulo: Atlas, 2010.",
+        "BUSSAB, Bolfarine H.; BUSSAB, Wilton O. Elementos de Amostragem. S\u00e3o Paulo: Blucher, 2005.",
+        "CARVALHO, S. Estat\u00edstica B\u00e1sica: teoria e 150 quest\u00f5es. 2. ed. Rio de Janeiro: Elsevier, 2006.",
+        "GERARDI, L\u00facia H. O.; SILVA, Barbara-Cristine N. Quantifica\u00e7\u00e3o em Geografia. S\u00e3o Paulo: DIFEl, 1981.",
+        "LAPPONI, Juan Carlos. Estat\u00edstica usando Excel. 4. ed. rev. Rio de Janeiro: Campus, 2005.",
+        "MAGALH\u00c3ES, Marcos Nascimento; LIMA, Ant\u00f4nio Carlos Pedroso de. No\u00e7\u00f5es de Probabilidade e Estat\u00edstica. 7. ed. S\u00e3o Paulo: EDUSP, 2010.",
+        "MONTGOMERY, Douglas C.; RUNGER, George C.; HUBELE, Norma F. Estat\u00edstica aplicada \u00e0 engenharia. 2. ed. Rio de Janeiro: LTC, 2011.",
+        "ROGERSON, P. A. M\u00e9todos Estat\u00edsticos para Geografia: um guia para o etudante. 3. ed. Porto Alegre: Boockman, 2012.",
+        "SILVA, E. M. et al. Estat\u00edstica para os cursos de: Economia, Administra\u00e7\u00e3o e Ci\u00eancias Cont\u00e1beis. 2. ed. S\u00e3o Paulo: Atlas, 1996.",
+        "SPIEGEL, M. R. Estat\u00edstica. 3. ed. S\u00e3o Paulo: Makron Books, 1993.",
+        "TRIOLA, Mario F. Introdu\u00e7\u00e3o \u00e0 Estat\u00edstica. 10. ed. Rio de Janeiro: LTC, 2008.",
+        "VIEIRA, S.; HOFFMANN, R. Elementos de Estat\u00edstica. 4. ed. S\u00e3o Paulo: Atlas, 2010."
+    ]
+}

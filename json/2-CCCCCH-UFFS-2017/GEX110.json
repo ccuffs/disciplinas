@@ -1,0 +1,19 @@
+{
+    "creditos": 4,
+    "codigo": "GEX110",
+    "ementa": "Hist\u00f3rico de Sistemas Operacionais. Arquitetura de Sistemas Operacionais. Funcionalidades de Sistemas Operacionais. Ger\u00eancia de Processos e Threads: Controle e Escalonamento. Impasses: Modelagem e Tratamento. Mem\u00f3ria: Aloca\u00e7\u00e3o, Ger\u00eancia e Mem\u00f3ria Virtual. Entrada e Sa\u00edda: princ\u00edpios de hardware e software, dispositivos perif\u00e9ricos. Sistema de Arquivos: Arquivos, Diret\u00f3rios e Implementa\u00e7\u00e3o. Prote\u00e7\u00e3o e Seguran\u00e7a. Sistemas com M\u00faltiplos Processadores.",
+    "horas": 60,
+    "nome": "SISTEMAS OPERACIONAIS",
+    "objetivo": "Conhecer a estrutura, as funcionalidades, os tipos e a evolu\u00e7\u00e3o de sistemas operacionais.",
+    "referencias_basicas": [
+        "GAGNE, G.; SILBERSCHATZ, A.; GALVIN, P. B. Fundamentos de Sistemas Operacionais. Rio de Janeiro: LTC, 2010.",
+        "OLIVEIRA, R. S.; TOSCANI, S. S.; CARISSIMI, A. da S. Sistemas Operacionais. 4. ed. S\u00e3o Paulo: Bookman Companhia, 2010.",
+        "TANENBAUM, A. S. Sistemas Operacionais Modernos. 3. ed. S\u00e3o Paulo: Pearson, 2010.",
+        "TANENBAUM, A. S.; WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementa\u00e7\u00e3o. 3. ed. Porto Alegre: Bookman, 2008."
+    ],
+    "referencias_complementares": [
+        "BACH, M. J. The Design of the Unix Operating System. Prentice-Hall, 1990.",
+        "MACHADO, F. B.; MAIA, L. P. Arquitetura de Sistemas Operacionais. 2. ed. Rio de Janeiro: LTC, 2002.",
+        "STALLINGS, W. Operating Systems: Internals and Design Principles. 3. ed. S\u00e3o Paulo: Prentice Hall, 1998."
+    ]
+}

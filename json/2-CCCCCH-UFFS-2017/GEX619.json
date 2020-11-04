@@ -1,0 +1,20 @@
+{
+    "creditos": 4,
+    "codigo": "GEX619",
+    "ementa": "Programa\u00e7\u00e3o competitiva. Estruturas de dados avan\u00e7adas: make-union-find, \u00e1rvores de segmento, \u00e1rvores de Fenwick, heaps e \u00e1rvores de sufixo. Algoritmos gulosos. Algoritmos de divis\u00e3o e conquista. Programa\u00e7\u00e3o din\u00e2mica. Modelagem de problemas com grafos. Problemas combinatoriais. Problemas de Teoria dos N\u00fameros. String matching. Geometria computacional.",
+    "horas": 60,
+    "nome": "T\u00c9CNICAS AVAN\u00c7ADAS DE PROGRAMA\u00c7\u00c3O",
+    "objetivo": "Estudar t\u00e9cnicas avan\u00e7adas de programa\u00e7\u00e3o para a resolu\u00e7\u00e3o de problemas complexos, praticando a implementa\u00e7\u00e3o das t\u00e9cnicas em diversos exerc\u00edcios e comparando analiticamente o resultado com os algoritmos de for\u00e7a bruta. Entender o conceito de \u2018espa\u00e7o de busca\u2019 em problemas de otimiza\u00e7\u00e3o. Aprimorar a criatividade e as habilidades necess\u00e1rias para competi\u00e7\u00f5es de programa\u00e7\u00e3o. Estudar algumas t\u00e9cnicas para a obten\u00e7\u00e3o em tempo vi\u00e1vel de solu\u00e7\u00f5es aproximadas para problemas NP-completos ou NP-dif\u00edceis.",
+    "referencias_basicas": [
+        "DASGUPTA, S.; PAPADIMITRIOU, C.; VAZIRANI, U. Algoritmos. 1. ed. McGraw-Hill Brasil, 2009.",
+        "KLEINBERG, J.; TARDOS, E. Algorithm Design. 1. ed. Addison Wesley, 2005.",
+        "SKIENNA, S. S. The Algorithm Design Manual. 2. ed. Springer, 2010.",
+        "SKIENNA, S. S.; REVILLA, M. Programming Challenges. 1. ed. Springer, 2003."
+    ],
+    "referencias_complementares": [
+        "BELLMAN, R.; DREYFUS, S. Dynamic Programming. 1. ed. Princeton University Press, 2010.",
+        "CORMEN, T. H. et al. Algoritmos: Teoria e Pr\u00e1tica. 3. ed. Rio de Janeiro: Elsevier, 2012.",
+        "KNUTH, D. E. The Art Of Computer Programming. Addison-Wesley, 2011. v. 1\u20134.",
+        "MANBER, U. Introduction To Algorithms: A Creative Approach. 1. ed. Addison-Wesley, 1989."
+    ]
+}

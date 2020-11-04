@@ -1,0 +1,21 @@
+{
+    "codigo": "GEX109",
+    "creditos": 4,
+    "ementa": "T\u00e9cnicas de intelig\u00eancia artificial aplicadas \u00e0 resolu\u00e7\u00e3o de problemas. Representa\u00e7\u00e3o de conhecimento.Sistemas baseados em conhecimento. Aprendizagem de m\u00e1quina. Arquiteturasde sistemas de Intelig\u00eancia Artificial.",
+    "horas": 60,
+    "nome": "INTELIG\u00caNCIA ARTIFICIAL",
+    "objetivo": "Adquirir o conhecimento b\u00e1sico para trabalhar com as abordagens diferenciadas da Intelig\u00eanciaArtificial objetivando simular comportamento inteligente atrav\u00e9s da m\u00e1quina.",
+    "referencias_basicas": [
+        "RUSSEL, S.; NORVIG, P. Intelig\u00eancia Artificial. Rio de Janeiro: Campus, 2004.",
+        "BITTENCOURT, G. Intelig\u00eancia Artificial. 3. ed. Florian\u00f3polis: UFSC, 2006.",
+        "LUGER, G. F. Artificial Intelligence Structures And Strategies For Complex ProblemSolving. Addison Wesley, 2008.",
+        "COPPIN, B. Intelig\u00eancia Artificial. S\u00e3o Paulo: LTC, 2010."
+    ],
+    "referencias_complementares": [
+        "NILSSON, N. J. Principles of Artificial Inteligence. Springer-Verlag, 1982.",
+        "ROWE, N. C. Artificial Intelligence Through Prolog. Prentice Hall, 1988.",
+        "WINSTON, Patrick H. Artificial Intelligence. 3. ed. Addisons-Wesley Publishing, 1992.",
+        "CLOCKSIN, H. F.; MELLISH, C. S. Programming in Prolog. Berlim: Spring-Verlag,1984.",
+        "NIKOLOPOULOS, C. Expert Systems: Introduction to first and second generation and hybridknowledge-based systems. Marcel Decker Inc. Press, 1997."
+    ]
+}

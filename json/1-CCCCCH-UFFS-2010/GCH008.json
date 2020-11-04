@@ -1,0 +1,29 @@
+{
+    "codigo": "GCH008",
+    "creditos": 4,
+    "ementa": "O contexto da Universidade: Ensino, Pesquisa e Extens\u00e3o. Epistemologia da Ci\u00eancia.Instrumentos, m\u00e9todos cient\u00edficos e normas t\u00e9cnicas. Projeto, execu\u00e7\u00e3o e publica\u00e7\u00e3o dapesquisa. A esfera pol\u00edtico-acad\u00eamica: institui\u00e7\u00f5es de fomento \u00e0 pesquisa. \u00c9tica na pesquisacient\u00edfica, propriedade intelectual e autoria. Associa\u00e7\u00f5es de pesquisa e eventos cient\u00edficos.",
+    "horas": 60,
+    "nome": "INICIA\u00c7\u00c3O \u00c0 PR\u00c1TICA CIENT\u00cdFICA",
+    "objetivo": "Proporcionar reflex\u00f5es sobre as rela\u00e7\u00f5es existentes entre universidade, sociedade econhecimento cient\u00edfico e fornecer instrumentos para iniciar o acad\u00eamico na pr\u00e1tica daatividade cient\u00edfica.",
+    "referencias_basicas": [
+        "ADORNO. T. Educa\u00e7\u00e3o ap\u00f3s Auschwitz. In: ______. Educa\u00e7\u00e3o e emancipa\u00e7\u00e3o.S\u00e3o Paulo\/Rio de Janeiro: Paz e Terra, 1995.",
+        "ALVES, R. Filosofia da Ci\u00eancia: introdu\u00e7\u00e3o ao jogo e as suas regras. 4. ed. S\u00e3o Paulo:Loyola, 2002.",
+        "CHAUI, M. Escritos sobre a Universidade. S\u00e3o Paulo: Ed. UNESP, 2001.HENRY, J. A Revolu\u00e7\u00e3o Cient\u00edfica: origens da ci\u00eancia moderna. Rio de Janeiro: Zahar,1998.",
+        "JAPIASSU, Hilton F. Epistemologia. O mito da neutralidade cient\u00edfica. Rio de Janeiro:Imago, 1975. (S\u00e9rie Logoteca).",
+        "MARCONI, M. de A.; LAKATOS, E. M. Fundamentos de Metodologia Cient\u00edfica. 6. ed.S\u00e3o Paulo: Atlas, 2005.",
+        "SEVERINO, A. J. Metodologia do trabalho cient\u00edfico. 23. ed. S\u00e3o Paulo: Cortez, 2007."
+    ],
+    "referencias_complementares": [
+        "APPOLIN\u00c1RIO. Metodologia da ci\u00eancia: filosofia e pr\u00e1tica da pesquisa. S\u00e3o Paulo:Pioneira Thomson, 2006.",
+        "D\u2019ACAMPORA, A. J. Investiga\u00e7\u00e3o cient\u00edfica. Blumenau: Nova Letra, 2006.",
+        "GALLIANO, A. G. O M\u00e9todo Cient\u00edfico: teoria e pr\u00e1tica. S\u00e3o Paulo: HARBRA, 1986.",
+        "GIACOIA JR., O. Hans Jonas. O princ\u00edpio responsabilidade. In: OLIVEIRA, M. A.Correntes fundamentais da \u00e9tica contempor\u00e2nea. Petr\u00f3polis: Vozes, 2000. p. 193-206.",
+        "GIL, A. C. M\u00e9todos e T\u00e9cnicas de Pesquisa Social. 5. ed. S\u00e3o Paulo: Atlas, 1999.",
+        "GONSALVES, E. P. Inicia\u00e7\u00e3o \u00e0 Pesquisa Cient\u00edfica. Campinas: Al\u00ednea, 2001.",
+        "MORIN, E. Ci\u00eancia com Consci\u00eancia. Lisboa, Mem-Martins: Publica\u00e7\u00f5es Europa-Am\u00e9rica, 1994.",
+        "OMM\u00c8S, R. Filosofia da ci\u00eancia contempor\u00e2nea. S\u00e3o Paulo: Unesp, 1996.",
+        "REY, L. Planejar e Redigir Trabalhos Cient\u00edficos. 4. ed. S\u00e3o Paulo: Edgard Bl\u00fccher,2003.",
+        "SANTOS, A. R. dos. Metodologia cient\u00edfica: a constru\u00e7\u00e3o do conhecimento. 6. ed. Rio deJaneiro: DP&A, 2004.",
+        "SILVER, Brian L. A escalada da ci\u00eancia. 2. ed. Florian\u00f3polis: Ed. da UFSC, 2008."
+    ]
+}

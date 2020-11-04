@@ -1,0 +1,24 @@
+{
+    "creditos": 4,
+    "codigo": "GEX098",
+    "ementa": "Conceitos de programa\u00e7\u00e3o orientada a objetos. Classes. Heran\u00e7a. Encapsulamento. Polimorfismo. Sobreposi\u00e7\u00e3o e sobrecarga. Associa\u00e7\u00f5es. Reusabilidade de software. Componentes. Cria\u00e7\u00e3o e uso de bibliotecas de classes. Interface gr\u00e1fica com o usu\u00e1rio. Persist\u00eancia de dados e de objetos. Tratamento de exce\u00e7\u00f5es e erros. Pacotes. Aspectos de projeto orientado a objetos. Pr\u00e1tica de programa\u00e7\u00e3o usando uma linguagem de programa\u00e7\u00e3o orientada a objetos.",
+    "horas": 60,
+    "nome": "PROGRAMA\u00c7\u00c3O I",
+    "objetivo": "Compreender os conceitos fundamentais do paradigma de programa\u00e7\u00e3o orientada a objetos e aplic\u00e1-los no desenvolvimento de solu\u00e7\u00f5es de software.",
+    "referencias_basicas": [
+        "BORATTI, Isaias Camilo. Programa\u00e7\u00e3o orientada a objetos em JAVA. Florian\u00f3polis: Visual Books, 2007.",
+        "CORNELL, G.; HORSTMANN, C. S. Core Java \u2013 Fundamentos. S\u00e3o Paulo: Prentice Hall Brasil, 2009. v. 1.",
+        "DEITEL, Harvey M.; DEITEL, Paul J. Java: Como Programar. 8. ed. S\u00e3o Paulo: Pearson, 2010.",
+        "SANTOS, Rafael. Introdu\u00e7\u00e3o \u00e0 programa\u00e7\u00e3o orientada a objetos usando Java. 8. reimp. Rio de Janeiro: Elsevier, 2003.",
+        "WEISFELD, Matt A. The object-oriented thought process. 3. ed. Pearson, 2009."
+    ],
+    "referencias_complementares": [
+        "BOOCH, Grady. Object-oriented analysis and design with applications. 2. ed. S\u00e3o Paulo: Pearson, 2007.",
+        "CARDOSO, C. Orienta\u00e7\u00e3o a Objetos na Pr\u00e1tica. Rio de Janeiro: Ci\u00eancia Moderna, 2006.",
+        "ECKEL, Bruce. Thinking in Java. Rio de Janeiro: Prentice-Hall, 2000.",
+        "GON\u00c7ALVES, Edson. Desenvolvendo Aplica\u00e7\u00f5es Web com JSP, Servlets, Java Server Faces, Hibernate, EJB 3 Persistence e Ajax. 1. ed. Rio de Janeiro: Ci\u00eancia Moderna, 2007.",
+        "KEOGH, Jim; GRANNINI, Mario. OOP Desmistificado \u2013 Programa\u00e7\u00e3o Orientada a Objetos. Rio de Janeiro: Alta Books, 2005.",
+        "LARMAN, C. Utilizando UML e Padr\u00f5es: uma Introdu\u00e7ao \u00e0 An\u00e1lise e ao Projeto Orientados a Objetos. 3. ed. S\u00e3o Paulo: Bokkman Companhia, 2007.",
+        "LEWIS, J.; LOFTUS, W. Java Software Solutions \u2013 Foundations of Program Design. Addison- Wesley, 1999."
+    ]
+}

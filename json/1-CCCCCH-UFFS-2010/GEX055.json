@@ -1,0 +1,19 @@
+{
+    "codigo": "GEX055",
+    "creditos": 4,
+    "ementa": "Probabilidade. Teorema de Bayes. Vari\u00e1veis aleat\u00f3rias discretas e cont\u00ednuas. Principais modeloste\u00f3ricos. Estima\u00e7\u00e3o de par\u00e2metros. Testes de hip\u00f3teses. Correla\u00e7\u00e3o e Regress\u00e3o.",
+    "horas": 60,
+    "nome": "PROBABILIDADE E ESTAT\u00cdSTICA",
+    "objetivo": "Saber aplicar os principais modelos de probabilidade discretos e cont\u00ednuos, assim como arealizar infer\u00eancia estat\u00edstica b\u00e1sica (estima\u00e7\u00e3o e testes de m\u00e9dias e propor\u00e7\u00f5es). Solucionarproblemas que envolvam fatores aleat\u00f3rios empregando conceitos de probabilidade. Descreveros principais modelos de distribui\u00e7\u00f5es discretas e cont\u00ednuas, usando-os em problemaspr\u00e1ticos.",
+    "referencias_basicas": [
+        "BARBETTA, P. A.; REIS, M. M.; BORNIA, A. C. Estat\u00edstica para Cursos de Engenhariae Inform\u00e1tica. 2. ed. S\u00e3o Paulo: Editora Atlas, 2008.",
+        "BUSSAB, W. O.; MORETTIN, P. A. Estat\u00edstica b\u00e1sica. 5. ed. S\u00e3o Paulo: Editora Saraiva,2002.MAGALH\u00c3ES, A. N.; LIMA, A. C. P. No\u00e7\u00f5es de probabilidade e estat\u00edstica. 6. ed. S\u00e3oPaulo: EDUSP, 2005.",
+        "SPIEGEL, M. R. Probabilidade e Estat\u00edstica \u2013 Cole\u00e7\u00e3o Schaum. 2. ed. Porto Alegre: Bookman,2004."
+    ],
+    "referencias_complementares": [
+        "COSTA NETO, P. L. de O. Estat\u00edstica. 2. ed. rev. e ampl. S\u00e3o Paulo: Blucher, 2002.",
+        "FONSECA, J. S. F. Curso de Estat\u00edstica. 6. ed. S\u00e3o Paulo: Atlas, 1996.",
+        "MONTGOMERY, D. C.; RUNGER, G. C. Estat\u00edstica aplicada e probabilidade para engenheiros.Rio de Janeiro: LTC, 2003.",
+        "TRIOLA, M. F. Introdu\u00e7\u00e3o \u00e0 Estat\u00edstica. 9. ed. Rio de Janeiro: LTC, 2005."
+    ]
+}

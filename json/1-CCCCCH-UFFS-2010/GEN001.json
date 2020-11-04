@@ -1,0 +1,19 @@
+{
+    "codigo": "GEN001",
+    "creditos": 4,
+    "ementa": "Sistemas num\u00e9ricos. Portas L\u00f3gicas. M\u00e9todos de Representa\u00e7\u00e3o de Circuitos. \u00c1lgebra deBoole. Circuitos Combinacionais. Circuitos Sequenciais: Latches e Flip-Flops. Fam\u00edlias l\u00f3gicas.",
+    "horas": 60,
+    "nome": "CIRCUITOS DIGITAIS",
+    "objetivo": "Compreender os conceitos fundamentais da l\u00f3gica digital e o funcionamento de circuitos digitaisb\u00e1sicos.",
+    "referencias_basicas": [
+        "TOCCI, Ronald; WIDMER, Neal; MOSS, Gregory. Sistemas Digitais: princ\u00edpios e aplica\u00e7\u00f5es.10. ed. S\u00e3o Paulo: Pearson Editora, 2007.",
+        "MELO, Mairton de Oliveira. Eletr\u00f4nica Digital. S\u00e3o Paulo: Makron Books, 1994.",
+        "TAUB, Herbert. Circuitos Digitais e Microprocessadores. S\u00e3o Paulo: McGraw-Hill,1984.",
+        "IDOETA, Ivan V.; CAPUANO, Francisco G. Elementos de Eletr\u00f4nica Digital. 37. ed. S\u00e3oPaulo: Livros \u00c9rica Editora Ltda, 2006."
+    ],
+    "referencias_complementares": [
+        "TAULE, Herbert; SCHILLING, Donald. Eletr\u00f4nica Digital. S\u00e3o Paulo: McGraw-Hill,1982.",
+        "LEACH, Donald P. Eletr\u00f4nica Digital no Laborat\u00f3rio. S\u00e3o Paulo: Editora Makron Booksdo Brasil, 1993.",
+        "WAGNER, F. R.; REIS, A. I.; RIBAS, R. P. Fundamentos De Circuitos Digitais. S\u00e3oPaulo: Bookman Companhia ED, 2008."
+    ]
+}

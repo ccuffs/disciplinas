@@ -1,0 +1,19 @@
+{
+    "creditos": 4,
+    "codigo": "GEX437",
+    "ementa": "Conceitua\u00e7\u00e3o b\u00e1sica e caracteriza\u00e7\u00e3o de um sistema de tempo real. Escalonamento de tempo real: modelo de tarefas; abordagens de escalonamento de tempo real. Controle de acesso a recursos: uso de protocolos de acesso a recursos. Comunica\u00e7\u00e3o em tempo real: requisitos, protocolos. Sistemas operacionais de tempo real: aspectos funcionais, aspectos temporais, estudo de casos. Linguagens de programa\u00e7\u00e3o de tempo real: caracter\u00edsticas, requisitos, software, estudo de casos.",
+    "horas": 60,
+    "nome": "SISTEMAS DE TEMPO REAL",
+    "objetivo": "Conhecer as caracter\u00edsticas das aplica\u00e7\u00f5es que possuem requisitos temporais, bem como as linguagens, sistemas operacionais, protocolos e t\u00e9cnicas utilizados para atend\u00ea-los.",
+    "referencias_basicas": [
+        "BUTTAZO, G. Hard Real-Time Computing Systems. Kluwer Academic Publishers, 1998.",
+        "MALL, R. Real-Time Systems: theory and practice. Prentice Hall, 2009.",
+        "SHAW, A. C. Sistemas e software de tempo real. Porto Alegre: Bookman Companhia, 2003.",
+        "WOLF, W. Computers as Components Principles of Embedded Computing System Design. Morgan Kaufmann Publishers, 2001."
+    ],
+    "referencias_complementares": [
+        "BURNS, A.; WLLING, A. Real-Time Systems and Programming Languages. Addison- Wesley, 1997.",
+        "KOPETZ, H. Real-Time Systems. Kluwer Academic Publishers, 1997.",
+        "SON, S. H. Advances in Real-Time Systems. Prentice Hall, 1995."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "codigo": "GEX004",
+    "creditos": 4,
+    "ementa": "Matrizes. Determinantes. Sistemas lineares. Vetores. Opera\u00e7\u00f5es com vetores. Geometria anal\u00edticaplana: retas e planos; c\u00edrculos; mudan\u00e7as de coordenadas. Elementos da GeometriaAnal\u00edtica no espa\u00e7o: retas e planos; curvas.",
+    "horas": 60,
+    "nome": "GEOMETRIA ANAL\u00cdTICA",
+    "objetivo": "Propiciar ao aluno condi\u00e7\u00f5es de identificar tipos de matrizes; operar com matrizes; calculardeterminantes; construir e resolver sistemas de equa\u00e7\u00f5es lineares por escalonamento e por invers\u00e3ode matriz; operar e utilizar vetores como um instrumento para resolver problemas envolvendorela\u00e7\u00f5es entre pontos, retas e planos, identificar geometricamende equa\u00e7\u00f5es linearese quadr\u00e1ticas em at\u00e9 3 vari\u00e1veis.",
+    "referencias_basicas": [
+        "DAVID, C. Geometria anal\u00edtica. 2. ed. Rio de Janeiro: Livros T\u00e9cnicos e Cient\u00edficos, 1977.",
+        "STEINBRUCH, A. Matrizes, determinantes e sistemas de equa\u00e7\u00f5es lineares. S\u00e3o Paulo:Makron Books, 1989.",
+        "STEINBRUCH, A.; WINTERLE, P. Geometria anal\u00edtica. 2. ed. S\u00e3o Paulo: Makron Books,1987."
+    ],
+    "referencias_complementares": [
+        "LIPSCHULTZ, S. \u00c1lgebra linear: teoria e problemas. 3. ed. S\u00e3o Paulo: Makron Books,1994. (Cole\u00e7\u00e3o Schaum).STEINBRUCH, A.; WINTERLE, P. \u00c1lgebra linear. 2. ed. S\u00e3o Paulo: Makron Books, 1987.",
+        "BOLDRINI, Jos\u00e9 Luiz et al. \u00c1lgebra linear. 3. ed. S\u00e3o Paulo: Harper How do Brasil, 1980."
+    ]
+}

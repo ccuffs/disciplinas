@@ -1,0 +1,16 @@
+{
+    "codigo": "GEX009",
+    "creditos": 6,
+    "ementa": "Limites de sequ\u00eancias e fun\u00e7\u00f5es. Continuidade. Derivadas. Aplica\u00e7\u00f5es da deriva\u00e7\u00e3o.Integrais definidas e indefinidas. T\u00e9cnicas de integra\u00e7\u00e3o. Aplica\u00e7\u00f5es da integra\u00e7\u00e3o.",
+    "horas": 90,
+    "nome": "C\u00c1LCULO I",
+    "objetivo": "Introduzir as principais ferramentas do c\u00e1lculo diferencial e integral de fun\u00e7\u00f5es de umavari\u00e1vel, abordando aplica\u00e7\u00f5es tanto de \u00e2mbito geral como relativo ao curso espec\u00edfico.Ademais, visa-se \u00e0 estrutura\u00e7\u00e3o e ao aprimoramento do racioc\u00ednio l\u00f3gico \u2013 dedutivo e \u00e0aquisi\u00e7\u00e3o de conhecimentos t\u00e9cnicos importantes para os referidos cursos.",
+    "referencias_basicas": [
+        "FLEMMING, D. M.; GON\u00c7ALVES, M. B. C\u00e1lculo A. 6. ed. S\u00e3o Paulo: Prentice Hall,2007.",
+        "GUIDORIZZI, H. L. Um curso de c\u00e1lculo. 5. ed. Rio de Janeiro: LTC, 2001. v. 1 e 2.LEITHOLD, L. O c\u00e1lculo com geometria anal\u00edtica. 3. ed. S\u00e3o Paulo: Harbra, 1994. v. 1.STEWART, J. C\u00e1lculo. 6. ed. S\u00e3o Paulo: Cengage Learning, 2010. v. 1."
+    ],
+    "referencias_complementares": [
+        "ANTON, H.; BIVENS, I.; DAVIS, S. C\u00e1lculo. 8. ed. S\u00e3o Paulo: Bookman, 2007. v. 1.APOSTOL, T. M. Calculus. 2. ed. New York: John Willey & Sons, 1969. v. 1.SALAS, Saturnino L.; HILLE, Einar; ETGEN, Garret J. C\u00e1lculo. 9. ed. Rio de Janeiro:LTC, 2005. 580 p. v. 1.SIMMONS, G. F. C\u00e1lculo com geometria anal\u00edtica. S\u00e3o Paulo: McGraw Hill, 1987. v. 1.T\u00c1BOAS, P. Z. C\u00e1lculo em uma vari\u00e1vel real. S\u00e3o Paulo: Edusp, 2003.",
+        "THOMAS, G. B. C\u00e1lculo. 11. ed. S\u00e3o Paulo: Addison Wesley, 2008. v. 1."
+    ]
+}

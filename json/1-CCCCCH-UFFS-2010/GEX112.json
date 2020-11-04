@@ -1,0 +1,21 @@
+{
+    "codigo": "GEX112",
+    "creditos": 4,
+    "ementa": "Seguran\u00e7a em aplica\u00e7\u00f5es: programa\u00e7\u00e3o segura, detec\u00e7\u00e3o de falhas, c\u00f3digos maliciosos(malware). Seguran\u00e7a em sistemas operacionais: princ\u00edpios de controle de acesso, sistemasconfi\u00e1veis. Seguran\u00e7a em redes de computadores: ataques e defesas. Princ\u00edpios de criptografia:criptografia sim\u00e9trica e assim\u00e9trica, integridade de dados. Protocolos de autentica\u00e7\u00e3o:princ\u00edpios, infra-estrutura de chaves p\u00fablicas e aplica\u00e7\u00f5es, e protocolos criptogr\u00e1ficos.",
+    "horas": 60,
+    "nome": "SEGURAN\u00c7A E AUDITORIA DE SISTEMAS",
+    "objetivo": "Reconhecer e relacionar os principais riscos envolvidos no ambiente de informa\u00e7\u00f5es e osprincipais pontos de controle de auditoria da tecnologia da informa\u00e7\u00e3o no que se refere \u00e0 auditoriado desenvolvimento e manuten\u00e7\u00e3o de sistemas, administra\u00e7\u00e3o de dados, administra\u00e7\u00e3ode banco de dados, e administra\u00e7\u00e3o de redes de computadores.",
+    "referencias_basicas": [
+        "SCHMIDT, Paulo; ARIMA, Carlos Hideo; SANTOS, Jos\u00e9 Luiz dos. Fundamentos de Auditoriade Sistemas. S\u00e3o Paulo: Atlas, 2006.",
+        "ONOME, J. Auditoria de Sistemas de Informa\u00e7\u00e3o. Rio de Janeiro: Editora Atlas, 2005.",
+        "GREG, Hoglund; GARY, Macgraw. Como quebrar c\u00f3digos \u2013 a arte de explorar e protegersoftware. S\u00e3o Paulo: Makron Books, 2006.",
+        "GIL, A. Auditoria de Computadores.S\u00e3o Paulo: Atlas 2000."
+    ],
+    "referencias_complementares": [
+        "MELLO, Sandro. Computa\u00e7\u00e3o forense com software livre \u2013 conceitos, t\u00e9cnicas, ferramentase estudos de casos. S\u00e3o Paulo: Atlas, 2009.",
+        "CARUSO, Carlos A. A.; STEFFEN, Fl\u00e1vio D. Seguran\u00e7a em Inform\u00e1tica e de Informa\u00e7\u00f5es.2. ed. S\u00e3o Paulo: Senac, 1999.",
+        "GIL, A. L. Fraudes Informatizadas.S\u00e3o Paulo: Atlas, 1999.",
+        "DIAS, C. Seguran\u00e7a e Auditoria da Tecnologia da Informa\u00e7\u00e3o. Rio de Janeiro: EditoraAxcel Books, 2000.",
+        "SCHMIDT, P. Fundamentos de Auditoria de Sistemas. S\u00e3o Paulo: Editora Atlas, 2006."
+    ]
+}

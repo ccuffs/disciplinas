@@ -1,0 +1,21 @@
+{
+    "codigo": "GEX104",
+    "creditos": 4,
+    "ementa": "Programas, M\u00e1quinas e Computa\u00e7\u00f5es. M\u00e1quinas de Turing. Fun\u00e7\u00f5es Recursivas. Computabilidade.Decidibilidade. An\u00e1lise e Complexidade de Algoritmos. Classes e complexidade deproblemas computacionais.",
+    "horas": 60,
+    "nome": "TEORIA DA COMPUTA\u00c7\u00c3O",
+    "objetivo": "Compreender as no\u00e7\u00f5es b\u00e1sicas de teoria da computa\u00e7\u00e3o e computabilidade.",
+    "referencias_basicas": [
+        "LEWIS, H. R.; PAPPADIMITRIOU, C. H. Elementos de Teoria da Computa\u00e7\u00e3o. PortoAlegre: Bookman, 2000.",
+        "HOPCROFT, J. E.; ULLMAN, J. D. Introdu\u00e7\u00e3o a teoria dos aut\u00f4matos, linguagens ecomputa\u00e7\u00e3o. Rio de Janeiro: Campus, 2002.",
+        "CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. Algoritmos: teoria epr\u00e1tica. Rio de Janeiro: Campus, 2002.",
+        "SIPSER, Michael. Introdu\u00e7\u00e3o \u00e0 Teoria da Computa\u00e7\u00e3o. 2. ed. S\u00e3o Paulo: Thompson Pioneira,2007.",
+        "CARNIELLI, Walter; EPSTEIN, Richard L. Computabilidade, Fun\u00e7\u00f5es Comput\u00e1veis, L\u00f3gicae os Fundamentos da Matem\u00e1tica. S\u00e3o Paulo: Editora Unesp, 2006."
+    ],
+    "referencias_complementares": [
+        "LEWIS, H. R.; PAPADIMITRIOU, C. H. Elementos de Teoria da Computa\u00e7\u00e3o. 2. ed.Porto Alegre: Ed. Bookmam, 1998.",
+        "WOOD, D. Theory of Computation. Ed. John Wiley & Sons, 1987.",
+        "SUDKAMP, T. A. Languages and Machines \u2013 An Introduction to the Theory of ComputerScience. 2. ed. Ed. Addison Wesley, 1997.",
+        "DIVERIO, T. A.; MENEZES, P. B. Teoria da Computa\u00e7\u00e3o \u2013 M\u00e1quinas Universais e Computabilidade.Porto Alegre: Ed. Sagra Luzzatto, 1999."
+    ]
+}

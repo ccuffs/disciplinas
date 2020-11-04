@@ -1,0 +1,28 @@
+{
+    "creditos": 4,
+    "codigo": "GEX213",
+    "ementa": "Grandezas proporcionais. No\u00e7\u00f5es de geometria. Conjuntos num\u00e9ricos. Equa\u00e7\u00f5es e inequa\u00e7\u00f5es. Fun\u00e7\u00f5es.",
+    "horas": 60,
+    "nome": "MATEM\u00c1TICA C",
+    "objetivo": "Utilizar conceitos e procedimentos matem\u00e1ticos para analisar dados, elaborar modelos e resolver problemas. Sintetizar, deduzir, elaborar hip\u00f3teses, estabelecer rela\u00e7\u00f5es e compara\u00e7\u00f5es, detectar contradi\u00e7\u00f5es, decidir, organizar, expressar-se e argumentar com clareza e coer\u00eancia utilizando elementos de linguagem matem\u00e1tica.",
+    "referencias_basicas": [
+        "CONNALLY, E. et al. Fun\u00e7\u00f5es para modelar varia\u00e7\u00f5es: uma prepara\u00e7\u00e3o para o c\u00e1lculo. Rio de Janeiro: LTC, 2009.",
+        "DEMANA, D. F. et al. Pr\u00e9-C\u00e1lculo. S\u00e3o Paulo: Addison Wesley, 2009.",
+        "DOLCE, O.; POMPEO, J. N. Fundamentos de Matem\u00e1tica Elementar: Geometria Plana. 8. ed. S\u00e3o Paulo: Atual, 2005. 9 v.",
+        "_______. Fundamentos de Matem\u00e1tica Elementar: Geometria Espacial. 6. ed. S\u00e3o Paulo: Atual, 2005. 10 v.",
+        "DORING, C. I.; DORING, L. R. Pr\u00e9-c\u00e1lculo. Porto Alegre: UFRGS, 2007.",
+        "IEZZI, G.; MURAKAMI, C. Fundamentos de matem\u00e1tica elementar: Conjuntos, Fun\u00e7\u00f5es. 8. ed. S\u00e3o Paulo: Atual, 2010. 1 v.",
+        "IEZZI, G.; DOLCE, O.; MURAKAMI, C. Fundamentos de matem\u00e1tica elementar: Logaritmos. 8. ed. S\u00e3o Paulo: Atual, 2004. 2 v.",
+        "IEZZI, G. Fundamentos de matem\u00e1tica elementar: Trigonometria. 8. ed. S\u00e3o Paulo: Atual, 2004. 3 v.",
+        "MEDEIROS, V. Z. et al. Pr\u00e9-C\u00e1lculo. 2. ed. S\u00e3o Paulo: Cengage Learning, 2009."
+    ],
+    "referencias_complementares": [
+        "ANTON, H. C\u00e1lculo. 8. ed. S\u00e3o Paulo: Bookman, 2007. 1 v.",
+        "BARBOSA, J. L. M. Geometria Euclidiana Plana. Rio de janeiro: SBM, 2000. (Cole\u00e7\u00e3o do Professor de Matem\u00e1tica).",
+        "FLEMMING, D. M.; GON\u00c7ALVES, M. B. C\u00e1lculo A. 6. ed. S\u00e3o Paulo: Prentice Hall, 2007.",
+        "LEITHOLD, L. C\u00e1lculo com geometria anal\u00edtica. 3. ed. S\u00e3o Paulo: HARBRA, 1994. 1 v.",
+        "LIMA, E. L. et al. A Matem\u00e1tica do Ensino M\u00e9dio. 6. ed. Rio de Janeiro: SBM, 2000. 2 v. (Cole\u00e7\u00e3o do Professor de Matem\u00e1tica).",
+        "_______. A matem\u00e1tica do Ensino M\u00e9dio. 4. ed. Rio de Janeiro: SBM, 1999. 1 v. (Cole\u00e7\u00e3o do Professor de Matem\u00e1tica).",
+        "STEWART, J. C\u00e1lculo. 6. ed. S\u00e3o Paulo: Cengage Learning, 2010. 1 v."
+    ]
+}

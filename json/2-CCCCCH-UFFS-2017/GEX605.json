@@ -1,0 +1,18 @@
+{
+    "creditos": 4,
+    "codigo": "GEX605",
+    "ementa": "Conceitos b\u00e1sicos de complexidade de algoritmos. Aloca\u00e7\u00e3o din\u00e2mica de mem\u00f3ria. Tipos Abstratos de Dados. Listas lineares e suas generaliza\u00e7\u00f5es: listas ordenadas, listas encadeadas, pilhas e filas. Hashing: fun\u00e7\u00f5es e tratamento de colis\u00f5es. \u00c1rvores: representa\u00e7\u00e3o, opera\u00e7\u00f5es e percursos em \u00e1rvores. \u00c1rvores bin\u00e1rias de busca e balanceadas. Heaps. \u00c1rvore de Fenwick. Implementa\u00e7\u00f5es com linguagem imperativa estruturada.",
+    "horas": 60,
+    "nome": "ESTRUTURAS DE DADOS",
+    "objetivo": "Entender os fundamentos e utilizar estruturas de dados b\u00e1sicas e avan\u00e7adas para a solu\u00e7\u00e3o de problemas computacionais.",
+    "referencias_basicas": [
+        "CORMEN, T.; RIVEST, R.; STEIN, C.; LEISERSON, C. Algoritmos: Teoria e Pr\u00e1tica. Elsevier - Campus, 2012.",
+        "DASGUPTA, S.; PAPADIMITRIOU, C.; VAZIRANI, U. Algoritmos. 1. ed. McGraw-Hill Brasil, 2009.",
+        "ZIVIANI, N. Projeto de Algoritmos com Implementa\u00e7\u00f5es Pascal e C. 2. ed. S\u00e3o Paulo: Thomson Pioneira, 2004."
+    ],
+    "referencias_complementares": [
+        "CELES, W.; CERQUEIRA, R.; RANGEL, J. L. Introdu\u00e7\u00e3o a Estrutura de Dados: uma Introdu\u00e7\u00e3o com T\u00e9cnicas de Programa\u00e7\u00e3o em C. Rio de Janeiro: Campus, 2004.",
+        "EDELWEISS, N.; GALANTE, R. Estruturas de Dados. Porto Alegre: Bookman, 2009.",
+        "WIRTH, N. Algoritmos e Estruturas de Dados. Rio de Janeiro: LTC, 1989."
+    ]
+}
